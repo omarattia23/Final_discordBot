@@ -1,0 +1,1718 @@
+2023-11-26 16:55:28,581 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-26 16:55:28,582 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-26 16:55:28,583 - /home/runner/DiscordBot/_log.py - DEBUG - 26-Nov-2023 14_55_28
+2023-11-26 16:55:32,568 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-26 16:55:47,472 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback
+2023-11-26 16:55:51,240 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-26 21:18:35,385 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-11-26 21:18:37,195 - /home/runner/DiscordBot/_log.py - INFO - The msg: 
+"Your First Task In RAS"
+is scheduled for `2023-11-28 23:00`.
+Remaining time: `2 days, 1:41:24.167255`.
+
+2023-11-26 21:22:26,205 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-26 21:22:26,205 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-26 21:22:26,207 - /home/runner/DiscordBot/_log.py - DEBUG - 26-Nov-2023 19_22_26
+2023-11-26 21:22:30,134 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-27 16:48:39,456 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-27 16:48:39,478 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-27 16:48:39,479 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Nov-2023 14_48_39
+2023-11-27 16:48:43,562 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-27 18:15:13,246 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-27 18:15:13,250 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-27 18:15:13,250 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Nov-2023 16_15_13
+2023-11-27 18:15:17,091 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-27 22:35:03,722 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-27 22:35:03,722 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-27 22:35:03,723 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Nov-2023 20_35_03
+2023-11-27 22:35:07,577 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-28 09:56:45,227 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-28 09:56:45,237 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-28 09:56:45,238 - /home/runner/DiscordBot/_log.py - DEBUG - 28-Nov-2023 07_56_45
+2023-11-28 09:56:49,734 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-28 15:41:45,031 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Samy** successfully submitted **Task #1**
+2023-11-28 15:43:28,286 - /home/runner/DiscordBot/_log.py - INFO - user: mahmoudsamy requested to get feedback
+2023-11-28 15:43:30,606 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-28 18:59:19,896 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-28 18:59:19,898 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-28 18:59:19,899 - /home/runner/DiscordBot/_log.py - DEBUG - 28-Nov-2023 16_59_19
+2023-11-28 18:59:24,625 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-28 20:28:00,631 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-28 20:28:00,631 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-28 20:28:00,632 - /home/runner/DiscordBot/_log.py - DEBUG - 28-Nov-2023 18_28_00
+2023-11-28 20:28:05,148 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-28 23:03:12,356 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-11-28 23:03:13,397 - /home/runner/DiscordBot/_log.py - INFO - User:mahmoudsamy created a thread Task 1
+2023-11-28 23:03:14,334 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy sent a msg in Task 1: "Your First Task In RAS" and file: Task1.pdf
+2023-11-28 23:48:29,291 - /home/runner/DiscordBot/_log.py - INFO - **Marwan Tamer** successfully submitted **Task #1**
+2023-11-28 23:52:44,731 - /home/runner/DiscordBot/_log.py - INFO - **mohamed fathy** successfully submitted **Task #1**
+2023-11-28 23:54:46,416 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Sharaf** successfully submitted **Task #1**
+2023-11-28 23:55:26,696 - /home/runner/DiscordBot/_log.py - INFO - **Omar Hassan** successfully submitted **Task #1**
+2023-11-29 00:03:25,237 - /home/runner/DiscordBot/_log.py - INFO - **Omar Ibrahim** successfully submitted **Task #1**
+2023-11-29 00:08:11,729 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Samy** successfully submitted **Task #1**
+2023-11-29 01:05:56,613 - /home/runner/DiscordBot/_log.py - INFO - **mostafamohamed2677** successfully submitted **Task #1**
+2023-11-29 02:43:06,225 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-29 02:43:06,228 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-29 02:43:06,228 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Nov-2023 00_43_06
+2023-11-29 02:43:11,644 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-29 02:49:22,755 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Riyad** successfully submitted **Task #1**
+2023-11-29 03:18:30,849 - /home/runner/DiscordBot/_log.py - INFO - **Omar taha** successfully submitted **Task #1**
+2023-11-29 04:00:15,304 - /home/runner/DiscordBot/_log.py - INFO - **Mariam Nader** successfully submitted **Task #1**
+2023-11-29 04:07:32,975 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-29 04:07:32,985 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-29 04:07:32,986 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Nov-2023 02_07_32
+2023-11-29 04:07:36,736 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-29 04:50:34,231 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-29 04:50:34,232 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-29 04:50:34,232 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Nov-2023 02_50_34
+2023-11-29 04:50:37,957 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-29 06:22:42,497 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-29 06:22:42,502 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-29 06:22:42,503 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Nov-2023 04_22_42
+2023-11-29 06:22:47,352 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-29 08:32:12,538 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-29 08:32:12,542 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-29 08:32:12,542 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Nov-2023 06_32_12
+2023-11-29 08:32:16,521 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-29 10:15:50,331 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Mohamed Abdallah** successfully submitted **Task #1**
+2023-11-29 12:44:59,997 - /home/runner/DiscordBot/_log.py - INFO - **Ziad Ashraf** successfully submitted **Task #1**
+2023-11-29 14:12:21,210 - /home/runner/DiscordBot/_log.py - INFO - **Mostafa Asaad** successfully submitted **Task #1**
+2023-11-29 15:01:18,895 - /home/runner/DiscordBot/_log.py - INFO - **Hager Mohamed** successfully submitted **Task #1**
+2023-11-29 15:06:13,497 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-29 15:06:13,502 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-29 15:06:13,507 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Nov-2023 13_06_13
+2023-11-29 15:06:19,842 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-29 15:14:26,663 - /home/runner/DiscordBot/_log.py - INFO - user: mohamed_fathy. requested to get feedback
+2023-11-29 15:14:30,200 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-29 16:06:54,109 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Adel** successfully submitted **Task #1**
+2023-11-29 16:42:32,818 - /home/runner/DiscordBot/_log.py - ERROR - **Sandy Alaa** coundn't submitted **Task #Task 1**
+2023-11-29 16:42:32,823 - /home/runner/DiscordBot/_log.py - ERROR - invalid literal for int() with base 10: 'Task 1'
+2023-11-29 16:50:01,308 - /home/runner/DiscordBot/_log.py - ERROR - **None** coundn't submitted **Task #1**
+2023-11-29 16:50:01,309 - /home/runner/DiscordBot/_log.py - ERROR - can only concatenate str (not "NoneType") to str
+2023-11-29 16:53:00,889 - /home/runner/DiscordBot/_log.py - INFO - **Sandy Alaa** successfully submitted **Task #1**
+2023-11-29 17:00:44,857 - /home/runner/DiscordBot/_log.py - ERROR - **None** coundn't submitted **Task #1**
+2023-11-29 17:00:44,926 - /home/runner/DiscordBot/_log.py - ERROR - can only concatenate str (not "NoneType") to str
+2023-11-29 17:17:11,841 - /home/runner/DiscordBot/_log.py - INFO - **Farah Mahmoud** successfully submitted **Task #1**
+2023-11-29 17:24:32,990 - /home/runner/DiscordBot/_log.py - ERROR - omarx6825 entered invalid task number: fd1
+2023-11-29 18:01:39,317 - /home/runner/DiscordBot/_log.py - INFO - **Abdallah Galal** successfully submitted **Task #1**
+2023-11-29 18:08:56,349 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Ramdan** successfully submitted **Task #1**
+2023-11-29 18:30:43,859 - /home/runner/DiscordBot/_log.py - INFO - **ahmedyasserelgyar** successfully submitted **Task #1**
+2023-11-29 18:46:49,002 - /home/runner/DiscordBot/_log.py - INFO - **Mohammed Waly** successfully submitted **Task #1**
+2023-11-29 18:52:26,977 - /home/runner/DiscordBot/_log.py - INFO - **Mohamed abdelghani** successfully submitted **Task #1**
+2023-11-29 18:57:24,750 - /home/runner/DiscordBot/_log.py - INFO - **tasneem ashraf** successfully submitted **Task #1**
+2023-11-29 18:57:50,547 - /home/runner/DiscordBot/_log.py - INFO - **mariamosman281** successfully submitted **Task #1**
+2023-11-29 19:03:17,901 - /home/runner/DiscordBot/_log.py - ERROR - **None** coundn't submitted **Task #1**
+2023-11-29 19:03:17,901 - /home/runner/DiscordBot/_log.py - ERROR - can only concatenate str (not "NoneType") to str
+2023-11-29 19:04:15,135 - /home/runner/DiscordBot/_log.py - ERROR - **None** coundn't submitted **Task #1**
+2023-11-29 19:04:15,144 - /home/runner/DiscordBot/_log.py - ERROR - can only concatenate str (not "NoneType") to str
+2023-11-29 19:09:52,807 - /home/runner/DiscordBot/_log.py - INFO - **Islam Elsayed** successfully submitted **Task #1**
+2023-11-29 19:12:33,661 - /home/runner/DiscordBot/_log.py - INFO - **Sara Elbrmawy** successfully submitted **Task #1**
+2023-11-29 19:33:14,661 - /home/runner/DiscordBot/_log.py - INFO - **hazem nasr** successfully submitted **Task #1**
+2023-11-29 19:38:39,746 - /home/runner/DiscordBot/_log.py - INFO - **Aya samir** successfully submitted **Task #1**
+2023-11-29 20:00:19,224 - /home/runner/DiscordBot/_log.py - INFO - **Eman Atef** successfully submitted **Task #1**
+2023-11-29 20:37:36,129 - /home/runner/DiscordBot/_log.py - INFO - **Omar Abd el Hakeem** successfully submitted **Task #1**
+2023-11-29 20:39:56,467 - /home/runner/DiscordBot/_log.py - INFO - user: mahmoudsamy requested to get feedback
+2023-11-29 20:39:58,429 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-29 20:41:52,090 - /home/runner/DiscordBot/_log.py - INFO - user: mahmoudsamy requested to get feedback
+2023-11-29 20:41:55,628 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-29 20:42:01,656 - /home/runner/DiscordBot/_log.py - ERROR - salmasameh_126 entered invalid task number: 'task 1'
+2023-11-29 20:42:18,694 - /home/runner/DiscordBot/_log.py - INFO - user: mahmoudsamy requested to get feedback
+2023-11-29 20:42:20,272 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-29 20:46:50,706 - /home/runner/DiscordBot/_log.py - INFO - **Hasan Maher** successfully submitted **Task #1**
+2023-11-29 20:52:21,275 - /home/runner/DiscordBot/_log.py - INFO - **Salma Sameh** successfully submitted **Task #1**
+2023-11-29 20:55:11,221 - /home/runner/DiscordBot/_log.py - ERROR - na_ancyy entered invalid task number: '#1'
+2023-11-29 20:55:58,072 - /home/runner/DiscordBot/_log.py - INFO - **Nancy** successfully submitted **Task #1**
+2023-11-29 20:56:17,961 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Essam** successfully submitted **Task #1**
+2023-11-29 20:59:18,229 - /home/runner/DiscordBot/_log.py - INFO - user: mohamed_fathy. requested to get feedback
+2023-11-29 20:59:19,839 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-29 21:04:23,495 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback
+2023-11-29 21:04:24,926 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-29 21:05:17,142 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback
+2023-11-29 21:05:18,372 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-29 21:05:54,148 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback
+2023-11-29 21:05:55,933 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-29 21:10:17,965 - /home/runner/DiscordBot/_log.py - INFO - **Merna Atef** successfully submitted **Task #1**
+2023-11-29 21:12:52,982 - /home/runner/DiscordBot/_log.py - INFO - **Malak Mostafa** successfully submitted **Task #1**
+2023-11-29 21:20:23,856 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-11-29 21:20:24,450 - /home/runner/DiscordBot/_log.py - INFO - The msg: 
+"Your Second Task In RAS"
+is scheduled for `2023-11-29 23:00`.
+Remaining time: `1:39:35.846340`.
+
+2023-11-29 21:25:59,052 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-11-29 21:25:59,453 - /home/runner/DiscordBot/_log.py - INFO - The msg: 
+"I'm tasting the function"
+is scheduled for `2023-11-29 21:26`.
+Remaining time: `0:00:00.719497`.
+
+2023-11-29 21:26:01,459 - /home/runner/DiscordBot/_log.py - INFO - Scheduled time has passed. Sending the message now.
+2023-11-29 21:26:01,648 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread test 1
+2023-11-29 21:26:06,609 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in test 1: "I'm tasting the function" and file: Atmega32.pdf
+2023-11-29 21:28:50,952 - /home/runner/DiscordBot/_log.py - INFO - **Shorouk Abdallah** successfully submitted **Task #1**
+2023-11-29 21:56:34,635 - /home/runner/DiscordBot/_log.py - ERROR - **None** coundn't submitted **Task #1**
+2023-11-29 21:56:34,645 - /home/runner/DiscordBot/_log.py - ERROR - can only concatenate str (not "NoneType") to str
+2023-11-29 21:56:53,300 - /home/runner/DiscordBot/_log.py - INFO - **Tasnem.sabry** successfully submitted **Task #1**
+2023-11-29 22:01:33,060 - /home/runner/DiscordBot/_log.py - INFO - **Mariam Georg** successfully submitted **Task #1**
+2023-11-29 22:08:42,825 - /home/runner/DiscordBot/_log.py - ERROR - heidiabdelrahman entered invalid task number: 'task1 heidi'
+2023-11-29 22:13:08,640 - /home/runner/DiscordBot/_log.py - ERROR - **None** coundn't submitted **Task #1**
+2023-11-29 22:13:08,640 - /home/runner/DiscordBot/_log.py - ERROR - can only concatenate str (not "NoneType") to str
+2023-11-29 22:20:01,274 - /home/runner/DiscordBot/_log.py - INFO - **heidiabdelrahman** successfully submitted **Task #1**
+2023-11-29 22:21:36,901 - /home/runner/DiscordBot/_log.py - INFO - **Rawan Amr** successfully submitted **Task #1**
+2023-11-29 22:25:21,897 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Medhat** successfully submitted **Task #1**
+2023-11-29 22:31:21,951 - /home/runner/DiscordBot/_log.py - ERROR - **None** coundn't submitted **Task #1**
+2023-11-29 22:31:21,955 - /home/runner/DiscordBot/_log.py - ERROR - can only concatenate str (not "NoneType") to str
+2023-11-29 22:33:48,150 - /home/runner/DiscordBot/_log.py - INFO - **Islam Ramadan** successfully submitted **Task #1**
+2023-11-29 22:37:57,261 - /home/runner/DiscordBot/_log.py - INFO - **Sohaila bakr** successfully submitted **Task #1**
+2023-11-29 22:44:38,521 - /home/runner/DiscordBot/_log.py - INFO - user: None requested to get feedback
+2023-11-29 22:44:41,381 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-11-29 23:00:01,458 - /home/runner/DiscordBot/_log.py - INFO - Scheduled time has passed. Sending the message now.
+2023-11-29 23:00:02,137 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread Task 2
+2023-11-29 23:00:04,221 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in Task 2: "Your Second Task In RAS" and file: Task_2.pdf
+2023-11-29 23:19:20,086 - /home/runner/DiscordBot/_log.py - INFO - **Dina Elsherbiny** successfully submitted **Task #1**
+2023-11-30 00:04:28,924 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-30 00:04:28,927 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-30 00:04:28,927 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Nov-2023 22_04_28
+2023-11-30 00:04:46,339 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-30 00:07:07,567 - /home/runner/DiscordBot/_log.py - INFO - **Hager Ahmed** successfully submitted **Task #1**
+2023-11-30 00:24:34,971 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-30 00:24:34,972 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-30 00:24:34,972 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Nov-2023 22_24_34
+2023-11-30 00:24:38,452 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-30 02:28:08,264 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-30 02:28:08,320 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-30 02:28:08,320 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Nov-2023 00_28_08
+2023-11-30 02:28:15,337 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-30 03:02:04,750 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-30 03:02:04,752 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-30 03:02:04,753 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Nov-2023 01_02_04
+2023-11-30 03:02:08,917 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-30 06:58:09,800 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-30 06:58:09,803 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-30 06:58:09,804 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Nov-2023 04_58_09
+2023-11-30 06:58:13,731 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-30 08:11:24,857 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-30 08:11:24,858 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-30 08:11:24,858 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Nov-2023 06_11_24
+2023-11-30 08:11:28,763 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-30 12:20:57,198 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-30 12:20:57,203 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-30 12:20:57,203 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Nov-2023 10_20_57
+2023-11-30 12:21:03,378 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-30 14:23:00,729 - /home/runner/DiscordBot/_log.py - INFO - **Youssef salama** successfully submitted **Task #1**
+2023-11-30 16:46:22,488 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-30 16:46:22,493 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-30 16:46:22,493 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Nov-2023 14_46_22
+2023-11-30 16:46:27,733 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-30 18:18:37,692 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-11-30 18:18:37,696 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-11-30 18:18:37,696 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Nov-2023 16_18_37
+2023-11-30 18:18:41,906 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-11-30 22:28:50,406 - /home/runner/DiscordBot/_log.py - INFO - user: mohamed_fathy. requested to get feedback
+2023-11-30 22:28:53,136 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-01 04:04:25,361 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-01 04:04:25,361 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-01 04:04:25,362 - /home/runner/DiscordBot/_log.py - DEBUG - 01-Dec-2023 02_04_25
+2023-12-01 04:04:31,289 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-01 04:23:01,892 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-01 04:23:01,894 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-01 04:23:01,894 - /home/runner/DiscordBot/_log.py - DEBUG - 01-Dec-2023 02_23_01
+2023-12-01 04:23:08,849 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-01 04:34:51,910 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-01 04:34:51,911 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-01 04:34:51,912 - /home/runner/DiscordBot/_log.py - DEBUG - 01-Dec-2023 02_34_51
+2023-12-01 04:34:55,576 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-01 05:04:32,830 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-01 05:04:32,832 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-01 05:04:32,833 - /home/runner/DiscordBot/_log.py - DEBUG - 01-Dec-2023 03_04_32
+2023-12-01 05:04:37,939 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-01 06:15:04,534 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-01 06:15:04,534 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-01 06:15:04,534 - /home/runner/DiscordBot/_log.py - DEBUG - 01-Dec-2023 04_15_04
+2023-12-01 06:15:09,060 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-01 06:25:25,196 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-01 06:25:25,196 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-01 06:25:25,196 - /home/runner/DiscordBot/_log.py - DEBUG - 01-Dec-2023 04_25_25
+2023-12-01 06:25:28,549 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-01 11:12:01,231 - /home/runner/DiscordBot/_log.py - INFO - **Youssef salama** successfully submitted **Task #1**
+2023-12-01 13:19:25,137 - /home/runner/DiscordBot/_log.py - INFO - **Mohamed Dawoud** successfully submitted **Task #1**
+2023-12-01 15:26:01,309 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Ashraf Fathi** successfully submitted **Task #2** Electronics
+2023-12-01 19:17:15,871 - /home/runner/DiscordBot/_log.py - INFO - **Osama Ashraf** successfully submitted **Task #1** Electronics
+2023-12-01 19:58:21,975 - /home/runner/DiscordBot/_log.py - INFO - **Hager Mohamed** successfully submitted **Task #2** Electronics
+2023-12-01 19:59:16,838 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Sharaf** successfully submitted **Task #2** Electronics
+2023-12-01 20:32:37,504 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Mohamed Abdallah** successfully submitted **Task #2** Electronics
+2023-12-01 22:53:42,995 - /home/runner/DiscordBot/_log.py - INFO - **Hasan Maher** successfully submitted **Task #2** Electronics
+2023-12-02 01:43:21,447 - /home/runner/DiscordBot/_log.py - INFO - **hazem nasr** successfully submitted **Task #2** Electronics
+2023-12-02 03:06:54,275 - /home/runner/DiscordBot/_log.py - INFO - **Islam Ramadan** successfully submitted **Task #2** Electronics
+2023-12-02 05:56:52,484 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-02 05:56:52,498 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-02 05:56:52,498 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Dec-2023 03_56_52
+2023-12-02 05:57:00,012 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-02 08:01:45,409 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-02 08:01:45,409 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-02 08:01:45,410 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Dec-2023 06_01_45
+2023-12-02 08:01:49,584 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-02 10:14:38,911 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-02 10:14:38,913 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-02 10:14:38,914 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Dec-2023 08_14_38
+2023-12-02 10:14:42,288 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-02 10:25:06,613 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-02 10:25:06,618 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-02 10:25:06,618 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Dec-2023 08_25_06
+2023-12-02 10:25:10,671 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-02 11:13:07,252 - /home/runner/DiscordBot/_log.py - INFO - **Salma Sameh** successfully submitted **Task #1** Electronics
+2023-12-02 12:48:49,347 - /home/runner/DiscordBot/_log.py - INFO - **Mostafa Asaad** successfully submitted **Task #2** Electronics
+2023-12-02 13:05:45,094 - /home/runner/DiscordBot/_log.py - INFO - **Ziad Ashraf** successfully submitted **Task #2** Electronics
+2023-12-02 14:18:01,618 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-02 14:18:01,621 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-02 14:18:01,621 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Dec-2023 12_18_01
+2023-12-02 14:18:05,243 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-02 16:22:10,302 - /home/runner/DiscordBot/_log.py - INFO - **Eman Atef** successfully submitted **Task #2** Electronics
+2023-12-02 17:38:36,281 - /home/runner/DiscordBot/_log.py - INFO - **Marwan Tamer** successfully submitted **Task #2** Electronics
+2023-12-02 18:01:13,667 - /home/runner/DiscordBot/_log.py - INFO - **tasneem ashraf** successfully submitted **Task #2** Electronics
+2023-12-02 18:28:06,250 - /home/runner/DiscordBot/_log.py - INFO - **Shorouk Abdallah** successfully submitted **Task #2** Electronics
+2023-12-02 18:59:28,707 - /home/runner/DiscordBot/_log.py - INFO - **Sandy Alaa** successfully submitted **Task #2** Electronics
+2023-12-02 19:09:59,353 - /home/runner/DiscordBot/_log.py - INFO - **tasneem ashraf** successfully submitted **Task #2** Electronics
+2023-12-02 19:21:23,460 - /home/runner/DiscordBot/_log.py - INFO - **Mariam Nader** successfully submitted **Task #2** Electronics
+2023-12-02 19:32:49,198 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Yasser Elgayar** successfully submitted **Task #2** Electronics
+2023-12-02 19:58:49,622 - /home/runner/DiscordBot/_log.py - INFO - **Hager Ahmed** successfully submitted **Task #2** Electronics
+2023-12-02 20:22:59,187 - /home/runner/DiscordBot/_log.py - INFO - **Farah Mahmoud** successfully submitted **Task #2** Electronics
+2023-12-02 20:55:38,313 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 20:55:39,290 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread test
+2023-12-02 20:55:40,124 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in test: "testing"
+2023-12-02 20:55:40,126 - /home/runner/DiscordBot/_log.py - ERROR - An error occurred in send_msg: 'int' object has no attribute 'send'
+2023-12-02 20:58:55,534 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 20:58:56,050 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread testing
+2023-12-02 20:58:56,215 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in testing: "testing"
+2023-12-02 20:58:56,219 - /home/runner/DiscordBot/_log.py - ERROR - An error occurred in send_msg: name 'get_channel' is not defined
+2023-12-02 21:01:25,842 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:01:26,418 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t
+2023-12-02 21:01:26,552 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t: "dfdf"
+2023-12-02 21:01:26,553 - /home/runner/DiscordBot/_log.py - ERROR - An error occurred in send_msg: name 'get_channel' is not defined
+2023-12-02 21:02:25,856 - /home/runner/DiscordBot/_log.py - INFO - **mostafa mohamed** successfully submitted **Task #2** Electronics
+2023-12-02 21:04:09,871 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:04:10,348 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t
+2023-12-02 21:04:10,656 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t: "dfdf"
+2023-12-02 21:04:10,657 - /home/runner/DiscordBot/_log.py - ERROR - An error occurred in send_msg: name 'client' is not defined
+2023-12-02 21:06:16,761 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:06:17,195 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t
+2023-12-02 21:06:17,502 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t: "dfdf"
+2023-12-02 21:06:17,503 - /home/runner/DiscordBot/_log.py - WARNING - name 'client' is not defined
+2023-12-02 21:06:52,616 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:06:53,053 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t
+2023-12-02 21:06:53,361 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t: "dfdf"
+2023-12-02 21:06:53,362 - /home/runner/DiscordBot/_log.py - WARNING - name 'client' is not defined
+2023-12-02 21:07:17,007 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:07:17,723 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t
+2023-12-02 21:07:17,866 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t: "dfdf"
+2023-12-02 21:09:27,627 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:09:28,165 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t
+2023-12-02 21:09:28,375 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t: "dfdf"
+2023-12-02 21:10:24,959 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:10:25,648 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t
+2023-12-02 21:10:25,944 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t: "dfdf"
+2023-12-02 21:11:29,765 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:11:30,536 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t
+2023-12-02 21:11:30,762 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t: "dfdf"
+2023-12-02 21:13:26,598 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:13:27,164 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t
+2023-12-02 21:13:27,311 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t: "dfdf"
+2023-12-02 21:14:37,164 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:14:37,869 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:14:38,063 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:16:43,904 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:16:44,292 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:16:44,472 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:16:44,475 - /home/runner/DiscordBot/_log.py - WARNING - name 'role' is not defined
+2023-12-02 21:19:04,383 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:19:05,549 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:19:05,810 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:19:05,812 - /home/runner/DiscordBot/_log.py - WARNING - name 'Rookie' is not defined
+2023-12-02 21:19:44,957 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:19:45,747 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:19:45,972 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:19:45,976 - /home/runner/DiscordBot/_log.py - WARNING - name 'Rookie' is not defined
+2023-12-02 21:20:24,150 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:20:25,247 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:20:25,439 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:20:25,440 - /home/runner/DiscordBot/_log.py - WARNING - 'str' object has no attribute 'mention'
+2023-12-02 21:22:58,835 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:22:59,344 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:22:59,670 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:22:59,671 - /home/runner/DiscordBot/_log.py - WARNING - 'MyBot' object has no attribute 'Role'
+2023-12-02 21:36:12,282 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:36:12,953 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:36:13,131 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:36:13,131 - /home/runner/DiscordBot/_log.py - WARNING - 'MyBot' object has no attribute 'guild'
+2023-12-02 21:39:06,564 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:39:06,924 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:39:07,072 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:39:07,073 - /home/runner/DiscordBot/_log.py - WARNING - local variable 'formatted_message' referenced before assignment
+2023-12-02 21:42:43,861 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:42:44,279 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:42:44,440 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:42:44,441 - /home/runner/DiscordBot/_log.py - WARNING - Role not found in the server.
+2023-12-02 21:43:45,568 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:43:46,054 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:43:46,258 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:43:46,261 - /home/runner/DiscordBot/_log.py - WARNING - Discussion channel not found.
+2023-12-02 21:45:16,684 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:45:17,201 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:45:17,371 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:45:17,372 - /home/runner/DiscordBot/_log.py - WARNING - 'NoneType' object has no attribute 'guild'
+2023-12-02 21:46:23,079 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:46:23,732 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:46:23,949 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:46:23,975 - /home/runner/DiscordBot/_log.py - WARNING - Role not found in the server.
+2023-12-02 21:47:06,584 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:47:07,087 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:47:07,405 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:47:07,405 - /home/runner/DiscordBot/_log.py - WARNING - Role not found in the server.
+2023-12-02 21:47:21,778 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:47:22,366 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:47:22,825 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:47:22,829 - /home/runner/DiscordBot/_log.py - WARNING - Role not found in the server.
+2023-12-02 21:48:21,740 - /home/runner/DiscordBot/_log.py - INFO - **Omar Hassan** successfully submitted **Task #2** Electronics
+2023-12-02 21:48:30,608 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-02 21:48:30,988 - /home/runner/DiscordBot/_log.py - INFO - User:omarx6825 created a thread t1
+2023-12-02 21:48:31,124 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in t1: "dfdf"
+2023-12-02 21:49:55,657 - /home/runner/DiscordBot/_log.py - INFO - **Omar taha** successfully submitted **Task #2** Electronics
+2023-12-02 21:52:24,337 - /home/runner/DiscordBot/_log.py - INFO - **Islam Elsayed** successfully submitted **Task #2** Electronics
+2023-12-02 22:20:10,373 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Adel** successfully submitted **Task #2** Electronics
+2023-12-02 22:45:38,118 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Essam** successfully submitted **Task #2** Electronics
+2023-12-02 22:47:04,932 - /home/runner/DiscordBot/_log.py - INFO - **Mariam Georg** successfully submitted **Task #2** Electronics
+2023-12-02 22:54:47,959 - /home/runner/DiscordBot/_log.py - INFO - **Merna Atef** successfully submitted **Task #2** Electronics
+2023-12-02 22:56:46,772 - /home/runner/DiscordBot/_log.py - INFO - **Merna Atef** successfully submitted **Task #2** Electronics
+2023-12-02 22:57:04,536 - /home/runner/DiscordBot/_log.py - INFO - **Omar Abd el Hakeem** successfully submitted **Task #2** Electronics
+2023-12-02 23:00:03,104 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-12-02 23:00:04,352 - /home/runner/DiscordBot/_log.py - INFO - User:mahmoudsamy created a thread 3
+2023-12-02 23:00:05,343 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy sent a msg in 3: "Your Third Task  :" and file: Task_3.pdf
+2023-12-02 23:01:42,493 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-12-02 23:01:43,521 - /home/runner/DiscordBot/_log.py - INFO - User:mahmoudsamy created a thread Task 3
+2023-12-02 23:01:44,366 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy sent a msg in Task 3: "Your Third Task:" and file: Task_3.pdf
+2023-12-02 23:02:40,925 - /home/runner/DiscordBot/_log.py - INFO - **mariamosman281** successfully submitted **Task #2** Electronics
+2023-12-02 23:04:24,239 - /home/runner/DiscordBot/_log.py - INFO - **Aya samir** successfully submitted **Task #2** Electronics
+2023-12-02 23:06:29,086 - /home/runner/DiscordBot/_log.py - INFO - **Nancy** successfully submitted **Task #2** Electronics
+2023-12-02 23:08:42,559 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-02 23:08:42,561 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-02 23:08:42,561 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Dec-2023 21_08_42
+2023-12-02 23:08:46,581 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-02 23:10:13,718 - /home/runner/DiscordBot/_log.py - INFO - **Omar Abd el Hakeem** successfully submitted **Task #2** Electronics
+2023-12-02 23:11:58,155 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Riyad** successfully submitted **Task #2** Electronics
+2023-12-02 23:50:33,770 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Medhat** successfully submitted **Task #2** Electronics
+2023-12-02 23:50:41,668 - /home/runner/DiscordBot/_log.py - INFO - **Sara Elbrmawy** successfully submitted **Task #2** Electronics
+2023-12-03 00:00:40,780 - /home/runner/DiscordBot/_log.py - INFO - **Tasnem.sabry** successfully submitted **Task #2** Electronics
+2023-12-03 00:04:02,130 - /home/runner/DiscordBot/_log.py - INFO - **Rawan Amr** successfully submitted **Task #2** Electronics
+2023-12-03 00:10:47,883 - /home/runner/DiscordBot/_log.py - INFO - **Mohamed abdelghani** successfully submitted **Task #2** Electronics
+2023-12-03 00:39:41,875 - /home/runner/DiscordBot/_log.py - INFO - **Dina Elsherbiny** successfully submitted **Task #2** Electronics
+2023-12-03 00:45:32,230 - /home/runner/DiscordBot/_log.py - INFO - **Heidi Abdel-rahman** successfully submitted **Task #2** Electronics
+2023-12-03 01:12:25,312 - /home/runner/DiscordBot/_log.py - INFO - **Sohaila bakr** successfully submitted **Task #2** Electronics
+2023-12-03 01:14:00,873 - /home/runner/DiscordBot/_log.py - INFO - **Sohaila bakr** successfully submitted **Task #2** Electronics
+2023-12-03 01:51:17,600 - /home/runner/DiscordBot/_log.py - INFO - **Mohammed Waly** successfully submitted **Task #2** Electronics
+2023-12-03 11:15:27,855 - /home/runner/DiscordBot/_log.py - INFO - user: dinaelsherbiny requested to get feedback *Electrical*
+2023-12-03 11:15:31,163 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-03 11:15:44,378 - /home/runner/DiscordBot/_log.py - INFO - user: dinaelsherbiny requested to get feedback *Electrical*
+2023-12-03 11:15:46,111 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-03 18:18:30,418 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-03 18:18:30,424 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-03 18:18:30,424 - /home/runner/DiscordBot/_log.py - DEBUG - 03-Dec-2023 16_18_30
+2023-12-03 18:18:37,098 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-03 18:51:16,241 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Ramdan** successfully submitted **Task #2** Electronics
+2023-12-03 20:45:02,017 - /home/runner/DiscordBot/_log.py - INFO - user: mernaatef requested to get feedback *Electrical*
+2023-12-03 20:45:05,430 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-03 20:45:31,746 - /home/runner/DiscordBot/_log.py - INFO - user: mernaatef requested to get feedback *Electrical*
+2023-12-03 20:45:34,482 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-03 23:21:20,798 - /home/runner/DiscordBot/_log.py - INFO - **Hasan Maher** successfully submitted **Task #3** Electronics
+2023-12-04 00:38:56,005 - /home/runner/DiscordBot/_log.py - INFO - **Marwan Tamer** successfully submitted **Task #3** Electronics
+2023-12-04 01:10:56,103 - /home/runner/DiscordBot/_log.py - INFO - **Hager Mohamed** successfully submitted **Task #3** Electronics
+2023-12-04 01:13:10,826 - /home/runner/DiscordBot/_log.py - INFO - **Youssef salama** successfully submitted **Task #2** Electronics
+2023-12-04 02:37:17,373 - /home/runner/DiscordBot/_log.py - INFO - **mohamed fathy** successfully submitted **Task #2** Electronics
+2023-12-04 08:43:19,987 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-04 08:43:19,989 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-04 08:43:19,990 - /home/runner/DiscordBot/_log.py - DEBUG - 04-Dec-2023 06_43_19
+2023-12-04 08:43:24,528 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-04 10:32:31,530 - /home/runner/DiscordBot/_log.py - INFO - **Mohamed Dawoud** successfully submitted **Task #2** Electronics
+2023-12-04 11:56:09,302 - /home/runner/DiscordBot/_log.py - INFO - user: mariamosman281 requested to get feedback *Electrical*
+2023-12-04 11:56:12,313 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-04 13:33:14,593 - /home/runner/DiscordBot/_log.py - INFO - **Osama Ashraf** successfully submitted **Task #1** Electronics
+2023-12-04 18:03:07,297 - /home/runner/DiscordBot/_log.py - WARNING - {<Member id=761579148782862377 name='osamaasharaf' global_name='Osama Ashraf' bot=False nick=None guild=<Guild id=1173789224470851674 name="Omar's server" shard_id=0 chunked=True member_count=3>>}
+2023-12-04 18:03:07,298 - /home/runner/DiscordBot/_log.py - INFO - user: osamaasharaf requested to get feedback *Electrical*
+2023-12-04 18:03:09,649 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-04 18:03:58,995 - /home/runner/DiscordBot/_log.py - WARNING - {<Member id=761579148782862377 name='osamaasharaf' global_name='Osama Ashraf' bot=False nick=None guild=<Guild id=1173789224470851674 name="Omar's server" shard_id=0 chunked=True member_count=3>>}
+2023-12-04 18:03:59,001 - /home/runner/DiscordBot/_log.py - INFO - user: osamaasharaf requested to get feedback *Mechanical*
+2023-12-04 18:04:06,710 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-04 18:07:33,050 - /home/runner/DiscordBot/_log.py - INFO - **Osama Ashraf** successfully submitted **Task #1** Electronics
+2023-12-04 18:56:27,722 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-04 18:56:27,725 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-04 18:56:27,725 - /home/runner/DiscordBot/_log.py - DEBUG - 04-Dec-2023 16_56_27
+2023-12-04 18:56:31,376 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-04 19:11:30,558 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-04 19:11:30,558 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-04 19:11:30,558 - /home/runner/DiscordBot/_log.py - DEBUG - 04-Dec-2023 17_11_30
+2023-12-04 19:11:34,457 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-04 20:36:55,718 - /home/runner/DiscordBot/_log.py - INFO - **Ibrahim Eid** successfully submitted **Task #2** Mechanical
+2023-12-04 20:36:55,868 - /home/runner/DiscordBot/_log.py - ERROR - **Eslam Salah** coundn't submitted **Task #2**
+2023-12-04 20:36:55,869 - /home/runner/DiscordBot/_log.py - ERROR - 404 Not Found (error code: 10015): Unknown Webhook
+2023-12-04 20:37:22,399 - /home/runner/DiscordBot/_log.py - INFO - **Eslam Salah** successfully submitted **Task #2** Mechanical
+2023-12-04 20:55:35,244 - /home/runner/DiscordBot/_log.py - INFO - user: ibrahimeid. requested to get feedback *Mechanical*
+2023-12-04 20:55:37,640 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-04 21:28:11,434 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Sharaf** successfully submitted **Task #3** Electronics
+2023-12-04 22:58:53,882 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-04 22:58:53,884 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-04 22:58:53,885 - /home/runner/DiscordBot/_log.py - DEBUG - 04-Dec-2023 20_58_53
+2023-12-04 22:58:58,312 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-05 00:11:03,921 - /home/runner/DiscordBot/_log.py - INFO - **Abdallah Galal** successfully submitted **Task #2** Mechanical
+2023-12-05 00:31:31,576 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-05 00:31:31,579 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-05 00:31:31,579 - /home/runner/DiscordBot/_log.py - DEBUG - 04-Dec-2023 22_31_31
+2023-12-05 00:31:36,719 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-05 00:34:08,251 - /home/runner/DiscordBot/_log.py - INFO - **Omar Hassan** successfully submitted **Task #3** Electronics
+2023-12-05 00:52:01,442 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-05 00:52:01,445 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-05 00:52:01,446 - /home/runner/DiscordBot/_log.py - DEBUG - 04-Dec-2023 22_52_01
+2023-12-05 00:52:05,446 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-05 00:55:33,780 - /home/runner/DiscordBot/_log.py - INFO - **Mostafa Asaad** successfully submitted **Task #3** Electronics
+2023-12-05 10:38:47,181 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-05 10:38:47,339 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-05 10:38:47,340 - /home/runner/DiscordBot/_log.py - DEBUG - 05-Dec-2023 08_38_47
+2023-12-05 10:38:52,602 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-05 10:53:34,710 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Almohamdy** successfully submitted **Task #3** Electronics
+2023-12-05 18:10:03,510 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-05 18:10:03,511 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-05 18:10:03,513 - /home/runner/DiscordBot/_log.py - DEBUG - 05-Dec-2023 16_10_03
+2023-12-05 18:10:07,891 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-05 19:26:33,284 - /home/runner/DiscordBot/_log.py - INFO - **Osama Ashraf** successfully submitted **Task #2** Mechanical
+2023-12-05 20:01:42,464 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-05 20:01:42,568 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-05 20:01:42,568 - /home/runner/DiscordBot/_log.py - DEBUG - 05-Dec-2023 18_01_42
+2023-12-05 20:01:46,447 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-05 22:03:40,733 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-05 22:03:40,734 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-05 22:03:40,734 - /home/runner/DiscordBot/_log.py - DEBUG - 05-Dec-2023 20_03_40
+2023-12-05 22:03:45,959 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-05 22:13:51,114 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-05 22:13:51,121 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-05 22:13:51,121 - /home/runner/DiscordBot/_log.py - DEBUG - 05-Dec-2023 20_13_51
+2023-12-05 22:13:54,501 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 00:04:03,949 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 00:04:03,953 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 00:04:03,953 - /home/runner/DiscordBot/_log.py - DEBUG - 05-Dec-2023 22_04_03
+2023-12-06 00:04:07,812 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 00:11:38,685 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 00:11:38,690 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 00:11:38,691 - /home/runner/DiscordBot/_log.py - DEBUG - 05-Dec-2023 22_11_38
+2023-12-06 00:11:43,171 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 00:50:08,282 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 00:50:08,286 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 00:50:08,286 - /home/runner/DiscordBot/_log.py - DEBUG - 05-Dec-2023 22_50_08
+2023-12-06 00:50:12,261 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 02:17:31,138 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 02:17:31,138 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 02:17:31,138 - /home/runner/DiscordBot/_log.py - DEBUG - 06-Dec-2023 00_17_31
+2023-12-06 02:17:36,421 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 02:18:00,355 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback *Electrical*
+2023-12-06 11:03:13,898 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 11:03:13,902 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 11:03:13,902 - /home/runner/DiscordBot/_log.py - DEBUG - 06-Dec-2023 09_03_13
+2023-12-06 11:03:19,182 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 11:30:23,279 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 11:30:23,377 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 11:30:23,377 - /home/runner/DiscordBot/_log.py - DEBUG - 06-Dec-2023 09_30_23
+2023-12-06 11:30:27,419 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 12:25:33,408 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 12:25:33,412 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 12:25:33,412 - /home/runner/DiscordBot/_log.py - DEBUG - 06-Dec-2023 10_25_33
+2023-12-06 12:25:38,200 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 14:10:54,310 - /home/runner/DiscordBot/_log.py - INFO - **Heidi Abdel-rahman** successfully submitted **Task #3** Electronics
+2023-12-06 15:03:09,336 - /home/runner/DiscordBot/_log.py - INFO - **Mariam Nader** successfully submitted **Task #3** Electronics
+2023-12-06 15:11:26,679 - /home/runner/DiscordBot/_log.py - INFO - **Salma Sameh** successfully submitted **Task #3** Electronics
+2023-12-06 17:32:18,011 - /home/runner/DiscordBot/_log.py - INFO - **Farah Mahmoud** successfully submitted **Task #3** Electronics
+2023-12-06 18:43:31,327 - /home/runner/DiscordBot/_log.py - INFO - **Shorouk Abdallah** successfully submitted **Task #3** Electronics
+2023-12-06 18:57:59,367 - /home/runner/DiscordBot/_log.py - INFO - **Ziad Ashraf** successfully submitted **Task #3** Electronics
+2023-12-06 19:35:54,206 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 19:35:54,212 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 19:35:54,212 - /home/runner/DiscordBot/_log.py - DEBUG - 06-Dec-2023 17_35_54
+2023-12-06 19:35:57,898 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 19:38:38,678 - /home/runner/DiscordBot/_log.py - INFO - **Mariam Georg** successfully submitted **Task #3** Electronics
+2023-12-06 19:45:07,351 - /home/runner/DiscordBot/_log.py - INFO - **tasneem ashraf** successfully submitted **Task #3** Electronics
+2023-12-06 20:29:04,845 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 20:29:04,846 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 20:29:04,846 - /home/runner/DiscordBot/_log.py - DEBUG - 06-Dec-2023 18_29_04
+2023-12-06 20:29:08,516 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 20:35:54,538 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 20:35:54,542 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 20:35:54,542 - /home/runner/DiscordBot/_log.py - DEBUG - 06-Dec-2023 18_35_54
+2023-12-06 20:35:58,519 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 21:40:27,878 - /home/runner/DiscordBot/_log.py - INFO - **Dina Elsherbiny** successfully submitted **Task #3** Electronics
+2023-12-06 21:42:38,183 - /home/runner/DiscordBot/_log.py - INFO - **Dina Elsherbiny** successfully submitted **Task #3** Electronics
+2023-12-06 21:43:42,474 - /home/runner/DiscordBot/_log.py - ERROR - **Dina Elsherbiny** coundn't submitted **Task #3**
+2023-12-06 21:43:42,475 - /home/runner/DiscordBot/_log.py - ERROR - 404 Not Found (error code: 10008): Unknown Message
+2023-12-06 21:56:30,338 - /home/runner/DiscordBot/_log.py - INFO - **Omar taha** successfully submitted **Task #3** Electronics
+2023-12-06 22:03:24,361 - /home/runner/DiscordBot/_log.py - INFO - **Sandy Alaa** successfully submitted **Task #3** Electronics
+2023-12-06 22:13:14,095 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-06 22:13:14,100 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-06 22:13:14,101 - /home/runner/DiscordBot/_log.py - DEBUG - 06-Dec-2023 20_13_14
+2023-12-06 22:13:17,478 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-06 22:18:56,708 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Medhat** successfully submitted **Task #3** Electronics
+2023-12-06 22:21:18,959 - /home/runner/DiscordBot/_log.py - INFO - **hazem nasr** successfully submitted **Task #3** Electronics
+2023-12-06 22:23:52,550 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Yasser Elgayar** successfully submitted **Task #3** Electronics
+2023-12-06 22:25:07,601 - /home/runner/DiscordBot/_log.py - INFO - **mostafa mohamed** successfully submitted **Task #3** Electronics
+2023-12-06 22:32:41,636 - /home/runner/DiscordBot/_log.py - INFO - user: mahmoud_ramdan requested to get feedback *Mechanical*
+2023-12-06 22:32:42,966 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-06 22:36:10,345 - /home/runner/DiscordBot/_log.py - INFO - **Omar Abd el Hakeem** successfully submitted **Task #3** Electronics
+2023-12-06 22:45:36,216 - /home/runner/DiscordBot/_log.py - INFO - **Tasnem.sabry** successfully submitted **Task #3** Electronics
+2023-12-06 22:46:26,775 - /home/runner/DiscordBot/_log.py - INFO - **Rawan Amr** successfully submitted **Task #3** Electronics
+2023-12-06 22:48:24,143 - /home/runner/DiscordBot/_log.py - INFO - **Islam Ramadan** successfully submitted **Task #3** Electronics
+2023-12-06 22:50:49,981 - /home/runner/DiscordBot/_log.py - INFO - **Eman Atef** successfully submitted **Task #3** Electronics
+2023-12-06 22:57:23,680 - /home/runner/DiscordBot/_log.py - INFO - **mariamosman281** successfully submitted **Task #3** Electronics
+2023-12-06 22:58:22,280 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Essam** successfully submitted **Task #3** Electronics
+2023-12-06 22:58:44,161 - /home/runner/DiscordBot/_log.py - ERROR - **mariamosman281** coundn't submitted **Task #3**
+2023-12-06 22:58:44,161 - /home/runner/DiscordBot/_log.py - ERROR - 404 Not Found (error code: 10015): Unknown Webhook
+2023-12-06 22:59:27,622 - /home/runner/DiscordBot/_log.py - INFO - **Hager Ahmed** successfully submitted **Task #3** Electronics
+2023-12-06 22:59:41,028 - /home/runner/DiscordBot/_log.py - INFO - **Merna Atef** successfully submitted **Task #3** Electronics
+2023-12-06 23:00:42,027 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-12-06 23:00:43,258 - /home/runner/DiscordBot/_log.py - INFO - User:mahmoudsamy created a thread Taask 4
+2023-12-06 23:00:43,856 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy sent a msg in Taask 4: "Your Fourth Task :)" and file: Task_4.pdf
+2023-12-06 23:02:12,694 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-12-06 23:02:13,590 - /home/runner/DiscordBot/_log.py - INFO - User:mahmoudsamy created a thread Task 4
+2023-12-06 23:02:14,188 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy sent a msg in Task 4: "Your fourth task :)" and file: Task_4.pdf
+2023-12-06 23:03:25,038 - /home/runner/DiscordBot/_log.py - INFO - **Sohaila bakr** successfully submitted **Task #3** Electronics
+2023-12-06 23:05:33,859 - /home/runner/DiscordBot/_log.py - INFO - **Aya samir** successfully submitted **Task #3** Electronics
+2023-12-06 23:05:43,439 - /home/runner/DiscordBot/_log.py - INFO - user: abdallah.galal. requested to get feedback *Mechanical*
+2023-12-06 23:05:44,791 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-06 23:05:49,732 - /home/runner/DiscordBot/_log.py - INFO - user: eslamsala7 requested to get feedback *Mechanical*
+2023-12-06 23:05:50,881 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-06 23:06:51,353 - /home/runner/DiscordBot/_log.py - INFO - **Sara Elbrmawy** successfully submitted **Task #3** Electronics
+2023-12-06 23:11:54,581 - /home/runner/DiscordBot/_log.py - INFO - user: osamaasharaf requested to get feedback *Mechanical*
+2023-12-06 23:11:56,047 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-06 23:19:31,219 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Riyad** successfully submitted **Task #3** Electronics
+2023-12-06 23:19:47,157 - /home/runner/DiscordBot/_log.py - INFO - user: mohamed_fathy. requested to get feedback *Mechanical*
+2023-12-06 23:19:48,755 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-06 23:23:57,352 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Ashraf Fathi** successfully submitted **Task #3** Electronics
+2023-12-06 23:27:29,272 - /home/runner/DiscordBot/_log.py - INFO - **Sohaila bakr** successfully submitted **Task #3** Electronics
+2023-12-07 00:00:41,852 - /home/runner/DiscordBot/_log.py - INFO - **Islam Elsayed** successfully submitted **Task #3** Electronics
+2023-12-07 01:15:11,123 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Ashraf Fathi** successfully submitted **Task #4** Electronics
+2023-12-07 03:20:54,262 - /home/runner/DiscordBot/_log.py - INFO - **Mariam Nader** successfully submitted **Task #4** Electronics
+2023-12-07 06:19:53,285 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 06:19:53,289 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 06:19:53,289 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 04_19_53
+2023-12-07 06:19:58,919 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 06:56:10,569 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 06:56:10,744 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 06:56:10,744 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 04_56_10
+2023-12-07 06:56:15,188 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 07:25:36,212 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback *Mechanical*
+2023-12-07 07:25:38,475 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 07:35:06,552 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 07:35:06,556 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 07:35:06,556 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 05_35_06
+2023-12-07 07:35:11,655 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 07:40:54,421 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 07:40:54,424 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 07:40:54,424 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 05_40_54
+2023-12-07 07:40:57,876 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 08:26:58,745 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 08:26:58,890 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 08:26:58,890 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 06_26_58
+2023-12-07 08:27:02,835 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 10:21:38,203 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Almohamdy** successfully submitted **Task #4** Electronics
+2023-12-07 10:23:42,024 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 10:23:42,035 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 10:23:42,035 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 08_23_42
+2023-12-07 10:23:48,373 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 11:07:29,572 - /home/runner/DiscordBot/_log.py - INFO - **Hager Mohamed** successfully submitted **Task #4** Electronics
+2023-12-07 11:53:29,882 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Sharaf** successfully submitted **Task #4** Electronics
+2023-12-07 12:02:08,368 - /home/runner/DiscordBot/_log.py - INFO - user: heidiabdelrahman requested to get feedback *Electrical*
+2023-12-07 12:02:10,184 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:02:53,897 - /home/runner/DiscordBot/_log.py - INFO - user: _ahmedsharaf requested to get feedback *Electrical*
+2023-12-07 12:02:55,705 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:03:23,420 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 12:03:23,424 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 12:03:23,424 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 10_03_23
+2023-12-07 12:03:27,305 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 12:05:03,708 - /home/runner/DiscordBot/_log.py - INFO - user: islam3937. requested to get feedback *Electrical*
+2023-12-07 12:05:08,063 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:06:13,379 - /home/runner/DiscordBot/_log.py - INFO - user: salmasameh_126_51284 requested to get feedback *Electrical*
+2023-12-07 12:06:15,411 - /home/runner/DiscordBot/_log.py - INFO - user: hasan04241 requested to get feedback *Electrical*
+2023-12-07 12:06:17,763 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:07:20,068 - /home/runner/DiscordBot/_log.py - INFO - user: islam3937. requested to get feedback *Electrical*
+2023-12-07 12:07:25,491 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:16:03,847 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedyasserelgyar requested to get feedback *Electrical*
+2023-12-07 12:16:07,897 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:16:40,189 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedyasserelgyar requested to get feedback *Electrical*
+2023-12-07 12:16:47,392 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:16:47,553 - /home/runner/DiscordBot/_log.py - INFO - user: hagerahmed0323 requested to get feedback *Electrical*
+2023-12-07 12:16:53,973 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:17:28,524 - /home/runner/DiscordBot/_log.py - INFO - user: omarhassan0398 requested to get feedback *Electrical*
+2023-12-07 12:17:30,738 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:19:46,658 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedalmohamdy requested to get feedback *Electrical*
+2023-12-07 12:19:49,340 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:26:36,182 - /home/runner/DiscordBot/_log.py - INFO - user: omarabdelhakeem. requested to get feedback *Electrical*
+2023-12-07 12:26:37,976 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:35:11,207 - /home/runner/DiscordBot/_log.py - INFO - user: mostafa_asaad requested to get feedback *Electrical*
+2023-12-07 12:35:14,692 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:36:40,455 - /home/runner/DiscordBot/_log.py - INFO - user: omartaha6788 requested to get feedback *Electrical*
+2023-12-07 12:36:42,421 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:43:02,525 - /home/runner/DiscordBot/_log.py - INFO - user: tasneem1859 requested to get feedback *Electrical*
+2023-12-07 12:43:04,528 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:44:37,578 - /home/runner/DiscordBot/_log.py - INFO - user: _nassar. requested to get feedback *Electrical*
+2023-12-07 12:44:39,382 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:44:47,770 - /home/runner/DiscordBot/_log.py - INFO - user: _nassar. requested to get feedback *Electrical*
+2023-12-07 12:44:49,991 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:45:30,658 - /home/runner/DiscordBot/_log.py - INFO - user: _nassar. requested to get feedback *Electrical*
+2023-12-07 12:45:32,740 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:47:08,800 - /home/runner/DiscordBot/_log.py - INFO - user: sherouq requested to get feedback *Electrical*
+2023-12-07 12:47:09,953 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 12:47:29,794 - /home/runner/DiscordBot/_log.py - INFO - user: sherouq requested to get feedback *Electrical*
+2023-12-07 12:47:33,469 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 13:26:08,231 - /home/runner/DiscordBot/_log.py - INFO - user: salmasameh_126_51284 requested to get feedback *Electrical*
+2023-12-07 13:28:05,953 - /home/runner/DiscordBot/_log.py - INFO - user: salmasameh_126_51284 requested to get feedback *Electrical*
+2023-12-07 13:28:47,474 - /home/runner/DiscordBot/_log.py - INFO - user: salmasameh_126_51284 requested to get feedback *Electrical*
+2023-12-07 13:32:19,003 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 13:32:19,008 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 13:32:19,008 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 11_32_19
+2023-12-07 13:32:24,672 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 13:32:45,786 - /home/runner/DiscordBot/_log.py - INFO - user: sara elbrmawy#1500 requested to get feedback *Electrical*
+2023-12-07 13:32:47,920 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 13:33:53,124 - /home/runner/DiscordBot/_log.py - INFO - user: salmasameh_126_51284 requested to get feedback *Electrical*
+2023-12-07 13:34:09,628 - /home/runner/DiscordBot/_log.py - INFO - user: salmasameh_126_51284 requested to get feedback *Electrical*
+2023-12-07 14:49:36,335 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedalmohamdy requested to get feedback *Electrical*
+2023-12-07 14:49:38,481 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 14:49:51,327 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedalmohamdy requested to get feedback *Electrical*
+2023-12-07 14:49:52,834 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 15:06:17,705 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback *Mechanical*
+2023-12-07 15:06:20,608 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 15:06:37,750 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback *Mechanical*
+2023-12-07 15:06:39,592 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 15:17:59,990 - /home/runner/DiscordBot/_log.py - INFO - user: omartaha6788 requested to get feedback *Electrical*
+2023-12-07 15:18:01,604 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 15:31:42,495 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedmedhat749 requested to get feedback *Electrical*
+2023-12-07 15:31:44,459 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 15:41:22,803 - /home/runner/DiscordBot/_log.py - INFO - user: hazemnasr. requested to get feedback *Electrical*
+2023-12-07 15:41:24,562 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 16:34:19,608 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedalmohamdy requested to get feedback *Electrical*
+2023-12-07 16:34:22,280 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 16:43:08,845 - /home/runner/DiscordBot/_log.py - INFO - user: hagermohamed0170 requested to get feedback *Electrical*
+2023-12-07 16:43:11,893 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 17:27:51,017 - /home/runner/DiscordBot/_log.py - INFO - user: mernaatef requested to get feedback *Electrical*
+2023-12-07 17:27:53,477 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 17:30:47,616 - /home/runner/DiscordBot/_log.py - INFO - user: mernaatef requested to get feedback *Electrical*
+2023-12-07 17:30:48,798 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 17:31:07,274 - /home/runner/DiscordBot/_log.py - INFO - user: ahmed_riyad21 requested to get feedback *Electrical*
+2023-12-07 17:31:08,423 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 18:06:29,891 - /home/runner/DiscordBot/_log.py - INFO - user: mariamnader. requested to get feedback *Electrical*
+2023-12-07 18:06:31,897 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 18:09:01,050 - /home/runner/DiscordBot/_log.py - INFO - user: mariamosman281 requested to get feedback *Electrical*
+2023-12-07 18:09:02,552 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 18:36:08,844 - /home/runner/DiscordBot/_log.py - INFO - **Omar Hassan** successfully submitted **Task #4** Electronics
+2023-12-07 19:27:23,322 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 19:27:58,099 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 19:28:30,992 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 19:31:14,308 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 19:31:36,320 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 19:53:30,880 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 19:58:37,897 - /home/runner/DiscordBot/_log.py - INFO - user: sara elbrmawy#1500 requested to get feedback *Electrical*
+2023-12-07 19:58:39,556 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 20:08:52,647 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 20:09:13,690 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 20:09:50,854 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 20:12:04,475 - /home/runner/DiscordBot/_log.py - INFO - user: mariamgeorge131 requested to get feedback *Electrical*
+2023-12-07 20:12:05,664 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 20:13:53,588 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 20:15:20,115 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 20:16:24,373 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 20:17:37,443 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 20:17:47,662 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 20:27:50,344 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 20:27:50,347 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 20:27:50,348 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 18_27_50
+2023-12-07 20:27:54,112 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 20:28:56,694 - /home/runner/DiscordBot/_log.py - INFO - user: mernaatef requested to get feedback *Electrical*
+2023-12-07 20:28:58,460 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 20:34:25,759 - /home/runner/DiscordBot/_log.py - INFO - user: mostafa4228 requested to get feedback *Electrical*
+2023-12-07 20:34:27,671 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 20:36:27,356 - /home/runner/DiscordBot/_log.py - INFO - user: rawann18 requested to get feedback *Electrical*
+2023-12-07 20:36:28,430 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 20:45:47,328 - /home/runner/DiscordBot/_log.py - INFO - **Mohamed abdelghani** successfully submitted **Task #3** Electronics
+2023-12-07 21:02:16,926 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback *Electrical*
+2023-12-07 21:44:28,101 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 21:44:28,106 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 21:44:28,107 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 19_44_28
+2023-12-07 21:44:33,162 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 22:07:37,447 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 22:07:37,463 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 22:07:37,463 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 20_07_37
+2023-12-07 22:07:44,048 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 22:20:33,353 - /home/runner/DiscordBot/_log.py - INFO - user: mariamosman281 requested to get feedback *Electrical*
+2023-12-07 22:20:36,103 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 22:31:52,361 - /home/runner/DiscordBot/_log.py - INFO - user: dinaelsherbiny requested to get feedback *Electrical*
+2023-12-07 22:31:56,345 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 22:32:05,406 - /home/runner/DiscordBot/_log.py - INFO - user: dinaelsherbiny requested to get feedback *Electrical*
+2023-12-07 22:32:08,193 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 22:34:25,450 - /home/runner/DiscordBot/_log.py - INFO - user: dinaelsherbiny requested to get feedback *Electrical*
+2023-12-07 22:34:26,403 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 22:38:53,560 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 22:38:53,562 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 22:38:53,570 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 20_38_53
+2023-12-07 22:38:59,057 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 22:55:47,338 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-07 22:55:47,338 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-07 22:55:47,383 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 20_55_47
+2023-12-07 22:55:52,334 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-07 22:56:37,634 - /home/runner/DiscordBot/_log.py - INFO - user: sohailabakr requested to get feedback *Electrical*
+2023-12-07 22:56:39,232 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 22:58:01,662 - /home/runner/DiscordBot/_log.py - INFO - user: tasneem1859 requested to get feedback *Electrical*
+2023-12-07 22:58:03,112 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 22:58:23,499 - /home/runner/DiscordBot/_log.py - INFO - user: tasneem1859 requested to get feedback *Electrical*
+2023-12-07 22:58:24,674 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 22:59:03,392 - /home/runner/DiscordBot/_log.py - INFO - user: tasneem1859 requested to get feedback *Electrical*
+2023-12-07 22:59:04,944 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 23:01:25,624 - /home/runner/DiscordBot/_log.py - INFO - user: emanatef._81866 requested to get feedback *Electrical*
+2023-12-07 23:03:36,803 - /home/runner/DiscordBot/_log.py - INFO - user: emanatef._81866 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:04:14,438 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:04:28,074 - /home/runner/DiscordBot/_log.py - INFO - user: emanatef._81866 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:04:30,776 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:06:19,869 - /home/runner/DiscordBot/_log.py - INFO - user: emanatef._81866 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:06:36,674 - /home/runner/DiscordBot/_log.py - INFO - user: emanatef._81866 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:06:37,577 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-07 23:06:45,416 - /home/runner/DiscordBot/_log.py - INFO - user: tasneem1859 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:06:46,630 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 23:06:51,680 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:06:53,874 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-07 23:08:12,134 - /home/runner/DiscordBot/_log.py - INFO - user: emanatef._81866 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:08:13,227 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-07 23:11:13,436 - /home/runner/DiscordBot/_log.py - INFO - **Marwan Tamer** successfully submitted **Task #4** Electronics
+2023-12-07 23:13:30,607 - /home/runner/DiscordBot/_log.py - INFO - user: marwantamermo requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:13:31,728 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 23:16:51,550 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:16:53,344 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-07 23:20:00,275 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-07 23:20:01,434 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-07 23:22:53,298 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-07 23:22:54,600 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-07 23:24:01,472 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:24:02,683 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-07 23:25:30,321 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:25:31,676 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-07 23:27:45,908 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 23 *Electrical*
+2023-12-07 23:27:46,798 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-07 23:27:53,474 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:27:54,422 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-07 23:28:50,587 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:28:51,470 - /home/runner/DiscordBot/_log.py - DEBUG - Test
+2023-12-07 23:28:51,470 - /home/runner/DiscordBot/_log.py - ERROR - ['ayasamir444_90083', 'Aya samir', '', '', '3', 'circuit = 3 , Notes: No output current control(-1), Questions [2,4] are missing(-2), Circuit screenshot is missing(-1), Not Bad Start You Can Be Better.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '2']
+2023-12-07 23:28:51,693 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 23:29:56,890 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-07 23:29:57,937 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 23:33:45,397 - /home/runner/DiscordBot/_log.py - INFO - user: emanatef._81866 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:33:46,431 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 23:37:04,924 - /home/runner/DiscordBot/_log.py - INFO - user: salmasameh_126_51284 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-07 23:37:06,174 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-07 23:48:53,665 - /home/runner/DiscordBot/_log.py - INFO - **Mostafa Asaad** successfully submitted **Task #4** Electronics
+2023-12-08 00:17:54,270 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-08 00:17:54,275 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-08 00:17:54,276 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 22_17_54
+2023-12-08 00:17:58,124 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-08 00:18:12,994 - /home/runner/DiscordBot/_log.py - INFO - user: tasnem.sabry requested to get feedback Task_Number: 2 *Electrical*
+2023-12-08 00:18:14,997 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 01:13:33,446 - /home/runner/DiscordBot/_log.py - INFO - **Aya samir** successfully submitted **Task #4** Electronics
+2023-12-08 01:36:26,160 - /home/runner/DiscordBot/_log.py - INFO - **tasneem ashraf** successfully submitted **Task #4** Electronics
+2023-12-08 01:42:40,527 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-08 01:42:40,530 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-08 01:42:40,530 - /home/runner/DiscordBot/_log.py - DEBUG - 07-Dec-2023 23_42_40
+2023-12-08 01:42:44,071 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-08 02:17:23,564 - /home/runner/DiscordBot/_log.py - INFO - user: mariamosman281 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-08 02:17:25,787 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 02:17:35,507 - /home/runner/DiscordBot/_log.py - INFO - user: mariamosman281 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-08 02:17:36,627 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 02:17:48,144 - /home/runner/DiscordBot/_log.py - INFO - user: mariamosman281 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-08 02:17:49,452 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 02:25:31,323 - /home/runner/DiscordBot/_log.py - INFO - **Eman Atef** successfully submitted **Task #4** Electronics
+2023-12-08 02:54:44,793 - /home/runner/DiscordBot/_log.py - INFO - **Hager Ahmed** successfully submitted **Task #4** Electronics
+2023-12-08 06:47:09,878 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-08 06:47:09,881 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-08 06:47:09,881 - /home/runner/DiscordBot/_log.py - DEBUG - 08-Dec-2023 04_47_09
+2023-12-08 06:47:13,446 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-08 09:49:50,750 - /home/runner/DiscordBot/_log.py - INFO - **Hasan Maher** successfully submitted **Task #4** Electronics
+2023-12-08 09:53:24,183 - /home/runner/DiscordBot/_log.py - INFO - user: hasan04241 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-08 09:53:26,148 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 09:53:35,228 - /home/runner/DiscordBot/_log.py - INFO - user: hasan04241 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-08 09:53:36,390 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 09:57:43,309 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-08 09:57:43,310 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-08 09:57:43,310 - /home/runner/DiscordBot/_log.py - DEBUG - 08-Dec-2023 07_57_43
+2023-12-08 09:57:50,281 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-08 12:51:44,221 - /home/runner/DiscordBot/_log.py - INFO - **Nancy** successfully submitted **Task #4** Electronics
+2023-12-08 13:01:32,673 - /home/runner/DiscordBot/_log.py - INFO - user: mostafa4228 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-08 13:01:34,448 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 13:02:10,014 - /home/runner/DiscordBot/_log.py - INFO - user: mostafa4228 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-08 13:02:12,688 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 15:12:35,710 - /home/runner/DiscordBot/_log.py - INFO - **Farah Mahmoud** successfully submitted **Task #4** Electronics
+2023-12-08 15:59:04,393 - /home/runner/DiscordBot/_log.py - INFO - **Ziad Ashraf** successfully submitted **Task #4** Electronics
+2023-12-08 16:04:05,835 - /home/runner/DiscordBot/_log.py - INFO - **Dina Elsherbiny** successfully submitted **Task #4** Electronics
+2023-12-08 18:41:22,466 - /home/runner/DiscordBot/_log.py - INFO - **Heidi Abdel-rahman** successfully submitted **Task #4** Electronics
+2023-12-08 19:21:03,360 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-08 19:21:03,363 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-08 19:21:03,363 - /home/runner/DiscordBot/_log.py - DEBUG - 08-Dec-2023 17_21_03
+2023-12-08 19:21:06,563 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-08 19:40:21,211 - /home/runner/DiscordBot/_log.py - INFO - **hazem nasr** successfully submitted **Task #4** Electronics
+2023-12-08 19:48:09,906 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-08 19:48:09,910 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-08 19:48:09,911 - /home/runner/DiscordBot/_log.py - DEBUG - 08-Dec-2023 17_48_09
+2023-12-08 19:48:14,370 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-08 20:09:02,809 - /home/runner/DiscordBot/_log.py - INFO - **Islam Ramadan** successfully submitted **Task #4** Electronics
+2023-12-08 20:31:39,339 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-12-08 20:31:40,141 - /home/runner/DiscordBot/_log.py - INFO - User:mahmoudsamy created a thread Project 1
+2023-12-08 20:31:40,738 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy sent a msg in Project 1: "Your First Project" and file: Project_I.pdf
+2023-12-08 20:36:46,131 - /home/runner/DiscordBot/_log.py - INFO - **Sara Elbrmawy** successfully submitted **Task #4** Electronics
+2023-12-08 20:46:23,165 - /home/runner/DiscordBot/_log.py - INFO - **Mohamed abdelghani** successfully submitted **Task #4** Electronics
+2023-12-08 20:56:47,471 - /home/runner/DiscordBot/_log.py - INFO - user: islam_elsayed requested to get feedback Task_Number: 1 *Electrical*
+2023-12-08 20:56:49,207 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 20:56:59,274 - /home/runner/DiscordBot/_log.py - INFO - user: islam_elsayed requested to get feedback Task_Number: 2 *Electrical*
+2023-12-08 20:57:01,093 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 21:00:43,729 - /home/runner/DiscordBot/_log.py - INFO - **Omar Abd el Hakeem** successfully submitted **Task #4** Electronics
+2023-12-08 21:03:03,295 - /home/runner/DiscordBot/_log.py - INFO - **Sandy Alaa** successfully submitted **Task #4** Electronics
+2023-12-08 21:03:28,790 - /home/runner/DiscordBot/_log.py - INFO - **Mariam Georg** successfully submitted **Task #4** Electronics
+2023-12-08 21:06:06,153 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedalmohamdy requested to get feedback Task_Number: 2 *Electrical*
+2023-12-08 21:06:10,522 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 21:39:48,273 - /home/runner/DiscordBot/_log.py - INFO - **Omar taha** successfully submitted **Task #4** Electronics
+2023-12-08 21:43:16,570 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-08 21:43:16,573 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-08 21:43:16,573 - /home/runner/DiscordBot/_log.py - DEBUG - 08-Dec-2023 19_43_16
+2023-12-08 21:43:20,580 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-08 22:15:38,690 - /home/runner/DiscordBot/_log.py - INFO - **mariamosman281** successfully submitted **Task #4** Electronics
+2023-12-08 22:17:08,461 - /home/runner/DiscordBot/_log.py - INFO - **Islam Elsayed** successfully submitted **Task #4** Electronics
+2023-12-08 22:22:40,529 - /home/runner/DiscordBot/_log.py - INFO - **Shorouk Abdallah** successfully submitted **Task #4** Electronics
+2023-12-08 22:24:48,119 - /home/runner/DiscordBot/_log.py - INFO - **Merna Atef** successfully submitted **Task #4** Electronics
+2023-12-08 22:24:48,245 - /home/runner/DiscordBot/_log.py - ERROR - **Salma Sameh** coundn't submitted **Task #4**
+2023-12-08 22:24:48,246 - /home/runner/DiscordBot/_log.py - ERROR - 404 Not Found (error code: 10015): Unknown Webhook
+2023-12-08 22:31:33,636 - /home/runner/DiscordBot/_log.py - INFO - **mostafa mohamed** successfully submitted **Task #4** Electronics
+2023-12-08 22:36:31,448 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Medhat** successfully submitted **Task #4** Electronics
+2023-12-08 22:40:03,788 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Adel** successfully submitted **Task #4** Electronics
+2023-12-08 22:43:26,783 - /home/runner/DiscordBot/_log.py - INFO - **Salma Sameh** successfully submitted **Task #4** Electronics
+2023-12-08 22:48:17,541 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Essam** successfully submitted **Task #4** Electronics
+2023-12-08 22:48:30,799 - /home/runner/DiscordBot/_log.py - INFO - user: _nassar. requested to get feedback Task_Number: 1 *Electrical*
+2023-12-08 22:48:32,071 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 22:48:35,811 - /home/runner/DiscordBot/_log.py - INFO - user: _nassar. requested to get feedback Task_Number: 2 *Electrical*
+2023-12-08 22:48:37,176 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 22:52:16,697 - /home/runner/DiscordBot/_log.py - INFO - **Rawan Amr** successfully submitted **Task #4** Electronics
+2023-12-08 22:52:19,761 - /home/runner/DiscordBot/_log.py - INFO - **Sohaila bakr** successfully submitted **Task #4** Electronics
+2023-12-08 22:52:42,663 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Riyad** successfully submitted **Task #4** Electronics
+2023-12-08 22:55:56,971 - /home/runner/DiscordBot/_log.py - INFO - **Sohaila bakr** successfully submitted **Task #4** Electronics
+2023-12-08 22:58:26,912 - /home/runner/DiscordBot/_log.py - INFO - **Tasnem.sabry** successfully submitted **Task #4** Electronics
+2023-12-08 23:02:25,088 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-12-08 23:02:25,665 - /home/runner/DiscordBot/_log.py - INFO - User:mahmoudsamy created a thread Task 5
+2023-12-08 23:02:26,323 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy sent a msg in Task 5: "Your Fifth Task" and file: Task_5.pdf
+2023-12-08 23:03:37,491 - /home/runner/DiscordBot/_log.py - INFO - user: mernaatef requested to get feedback Task_Number: 2 *Electrical*
+2023-12-08 23:03:38,731 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-08 23:03:52,408 - /home/runner/DiscordBot/_log.py - INFO - user: _nassar. requested to get feedback Task_Number: 2 *Electrical*
+2023-12-08 23:03:53,579 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 00:25:14,303 - /home/runner/DiscordBot/_log.py - INFO - **Mohammed Waly** successfully submitted **Task #3** Mechanical
+2023-12-09 01:33:48,156 - /home/runner/DiscordBot/_log.py - INFO - **Aya Yousef** successfully submitted **Task #4** Electronics
+2023-12-09 01:46:00,328 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-09 01:46:00,334 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-09 01:46:00,334 - /home/runner/DiscordBot/_log.py - DEBUG - 08-Dec-2023 23_46_00
+2023-12-09 01:46:04,049 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-09 02:26:02,279 - /home/runner/DiscordBot/_log.py - INFO - **tasneem ashraf** successfully submitted **Task #5** Electronics
+2023-12-09 02:51:00,255 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-09 02:51:00,259 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-09 02:51:00,260 - /home/runner/DiscordBot/_log.py - DEBUG - 09-Dec-2023 00_51_00
+2023-12-09 02:51:03,790 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-09 04:46:18,351 - /home/runner/DiscordBot/_log.py - INFO - **Hager Sobhy** successfully submitted **Task #5** Electronics
+2023-12-09 08:49:24,928 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-09 08:49:25,194 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-09 08:49:25,194 - /home/runner/DiscordBot/_log.py - DEBUG - 09-Dec-2023 06_49_25
+2023-12-09 08:49:28,742 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-09 16:43:25,831 - /home/runner/DiscordBot/_log.py - INFO - user: mohameddawoud._37071 requested to get feedback Task_Number: 2 *Mechanical*
+2023-12-09 16:43:28,553 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 17:38:40,901 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-09 17:38:42,276 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 17:41:36,059 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-09 17:41:37,264 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 17:54:28,489 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-09 17:54:30,235 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 17:56:37,592 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-09 17:56:38,887 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 17:57:43,980 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-09 17:57:44,992 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 17:58:07,600 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-09 17:58:09,024 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 18:43:20,861 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-09 18:43:22,185 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 20:10:54,249 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-09 20:10:55,737 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-09 20:11:17,214 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-09 20:11:18,519 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-09 20:54:19,919 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Medhat** successfully submitted **Task #5** Electronics
+2023-12-09 20:57:17,104 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-09 20:57:18,808 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-09 20:57:36,041 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-09 20:57:37,847 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-09 21:09:59,078 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-09 21:09:59,079 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-09 21:09:59,079 - /home/runner/DiscordBot/_log.py - DEBUG - 09-Dec-2023 19_09_59
+2023-12-09 21:10:02,080 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-09 21:14:57,585 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 1 *Mechanical*
+2023-12-09 21:14:58,796 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:15:15,468 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 2 *Mechanical*
+2023-12-09 21:15:16,792 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:26:28,073 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedmedhat749 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-09 21:26:29,184 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:26:47,423 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedmedhat749 requested to get feedback Task_Number: 4 *Electrical*
+2023-12-09 21:26:48,452 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:26:58,819 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedmedhat749 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-09 21:26:59,616 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:27:07,332 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedmedhat749 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-09 21:27:08,347 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:27:17,343 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedmedhat749 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-09 21:27:18,199 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:28:46,845 - /home/runner/DiscordBot/_log.py - INFO - user: mariamnader. requested to get feedback Task_Number: 3 *Electrical*
+2023-12-09 21:28:47,769 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:31:01,201 - /home/runner/DiscordBot/_log.py - INFO - user: tasneem1859 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-09 21:31:02,165 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:32:14,522 - /home/runner/DiscordBot/_log.py - INFO - user: tasneem1859 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-09 21:32:15,340 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:42:05,218 - /home/runner/DiscordBot/_log.py - INFO - user: islam3937. requested to get feedback Task_Number: 3 *Electrical*
+2023-12-09 21:42:06,365 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-09 21:48:12,364 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-09 21:48:12,376 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-09 21:48:12,376 - /home/runner/DiscordBot/_log.py - DEBUG - 09-Dec-2023 19_48_12
+2023-12-09 21:48:16,847 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-09 22:17:39,302 - /home/runner/DiscordBot/_log.py - INFO - **Mostafa Asaad** successfully submitted **Task #5** Electronics
+2023-12-10 04:24:32,654 - /home/runner/DiscordBot/_log.py - INFO - **Shorouk Abdallah** successfully submitted **Task #5** Electronics
+2023-12-10 07:13:53,447 - /home/runner/DiscordBot/_log.py - INFO - **Marwan Tamer** successfully submitted **Task #5** Electronics
+2023-12-10 07:48:44,366 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-10 07:48:44,398 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-10 07:48:44,399 - /home/runner/DiscordBot/_log.py - DEBUG - 10-Dec-2023 05_48_44
+2023-12-10 07:48:48,143 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-10 11:19:20,290 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Almohamdy** successfully submitted **Task #5** Electronics
+2023-12-10 13:28:47,602 - /home/runner/DiscordBot/_log.py - INFO - **Hager Ahmed** successfully submitted **Task #5** Electronics
+2023-12-10 13:46:41,396 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-10 13:46:41,400 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-10 13:46:41,400 - /home/runner/DiscordBot/_log.py - DEBUG - 10-Dec-2023 11_46_41
+2023-12-10 13:46:45,356 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-10 14:06:22,871 - /home/runner/DiscordBot/_log.py - INFO - **Omar Hassan** successfully submitted **Task #5** Electronics
+2023-12-10 14:33:41,294 - /home/runner/DiscordBot/_log.py - INFO - **Youssef salama** successfully submitted **Task #3** Electronics
+2023-12-10 14:35:45,368 - /home/runner/DiscordBot/_log.py - INFO - **Eman Atef** successfully submitted **Task #5** Electronics
+2023-12-10 14:38:27,613 - /home/runner/DiscordBot/_log.py - INFO - **Salma Sameh** successfully submitted **Task #5** Electronics
+2023-12-10 15:02:55,281 - /home/runner/DiscordBot/_log.py - INFO - **Ziad Ashraf** successfully submitted **Task #5** Electronics
+2023-12-10 15:21:20,706 - /home/runner/DiscordBot/_log.py - INFO - **Merna Atef** successfully submitted **Task #5** Electronics
+2023-12-10 18:02:22,367 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-10 18:02:22,372 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-10 18:02:22,372 - /home/runner/DiscordBot/_log.py - DEBUG - 10-Dec-2023 16_02_22
+2023-12-10 18:02:26,159 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-10 18:06:17,433 - /home/runner/DiscordBot/_log.py - INFO - **Farah Mahmoud** successfully submitted **Task #5** Electronics
+2023-12-10 18:14:42,146 - /home/runner/DiscordBot/_log.py - INFO - **Sandy Alaa** successfully submitted **Task #5** Electronics
+2023-12-10 18:38:31,614 - /home/runner/DiscordBot/_log.py - INFO - **Omar taha** successfully submitted **Task #5** Electronics
+2023-12-10 19:22:46,879 - /home/runner/DiscordBot/_log.py - INFO - **Aya Yousef** successfully submitted **Task #5** Electronics
+2023-12-10 19:47:16,606 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Sharaf** successfully submitted **Task #5** Electronics
+2023-12-10 20:00:07,242 - /home/runner/DiscordBot/_log.py - INFO - **Mariam Nader** successfully submitted **Task #5** Electronics
+2023-12-10 20:04:19,204 - /home/runner/DiscordBot/_log.py - INFO - **Mohamed Dawoud** successfully submitted **Task #3** Mechanical
+2023-12-10 20:22:09,510 - /home/runner/DiscordBot/_log.py - INFO - **mariamosman281** successfully submitted **Task #5** Electronics
+2023-12-10 20:57:11,622 - /home/runner/DiscordBot/_log.py - INFO - **Dina Elsherbiny** successfully submitted **Task #5** Electronics
+2023-12-10 21:10:44,853 - /home/runner/DiscordBot/_log.py - INFO - **Nancy** successfully submitted **Task #5** Electronics
+2023-12-10 21:16:32,847 - /home/runner/DiscordBot/_log.py - INFO - **Omar Abd el Hakeem** successfully submitted **Task #5** Electronics
+2023-12-10 21:29:56,805 - /home/runner/DiscordBot/_log.py - INFO - **Sohaila bakr** successfully submitted **Task #5** Electronics
+2023-12-10 21:58:05,526 - /home/runner/DiscordBot/_log.py - INFO - **Mariam Georg** successfully submitted **Task #5** Electronics
+2023-12-10 22:19:26,922 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Ashraf Fathi** successfully submitted **Task #5** Electronics
+2023-12-10 22:40:06,871 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-10 22:40:06,878 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-10 22:40:06,878 - /home/runner/DiscordBot/_log.py - DEBUG - 10-Dec-2023 20_40_06
+2023-12-10 22:40:10,496 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-10 22:42:43,634 - /home/runner/DiscordBot/_log.py - INFO - **Hasan Maher** successfully submitted **Task #5** Electronics
+2023-12-10 22:48:07,535 - /home/runner/DiscordBot/_log.py - INFO - **hazem nasr** successfully submitted **Task #5** Electronics
+2023-12-10 22:50:04,008 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Riyad** successfully submitted **Task #5** Electronics
+2023-12-10 22:50:49,412 - /home/runner/DiscordBot/_log.py - INFO - **Islam Ramadan** successfully submitted **Task #5** Electronics
+2023-12-10 22:51:45,130 - /home/runner/DiscordBot/_log.py - INFO - **Mohamed abdelghani** successfully submitted **Task #5** Electronics
+2023-12-10 22:52:32,575 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Essam** successfully submitted **Task #5** Electronics
+2023-12-10 22:53:51,032 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Yasser Elgayar** successfully submitted **Task #4** Electronics
+2023-12-10 22:54:35,263 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Yasser Elgayar** successfully submitted **Task #5** Electronics
+2023-12-10 22:57:55,682 - /home/runner/DiscordBot/_log.py - INFO - **Tasnem.sabry** successfully submitted **Task #5** Electronics
+2023-12-10 23:00:05,359 - /home/runner/DiscordBot/_log.py - INFO - **Islam Elsayed** successfully submitted **Task #5** Electronics
+2023-12-10 23:00:05,521 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-12-10 23:00:06,280 - /home/runner/DiscordBot/_log.py - INFO - User:mahmoudsamy created a thread Project I
+2023-12-10 23:00:07,155 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy sent a msg in Project I: "Your First Project In RAS" and file: Project_I.pdf
+2023-12-10 23:01:02,610 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-12-10 23:01:03,130 - /home/runner/DiscordBot/_log.py - INFO - User:mahmoudsamy created a thread Project I
+2023-12-10 23:01:03,822 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy sent a msg in Project I: "Your First Project In RAS" and file: Project_I.pdf
+2023-12-10 23:07:42,871 - /home/runner/DiscordBot/_log.py - INFO - **Rawan Amr** successfully submitted **Task #5** Electronics
+2023-12-10 23:09:12,511 - /home/runner/DiscordBot/_log.py - INFO - **Sara Elbrmawy** successfully submitted **Task #5** Electronics
+2023-12-11 01:16:59,225 - /home/runner/DiscordBot/_log.py - ERROR - **Heidi Abdel-rahman** coundn't submitted **Task #5**
+2023-12-11 01:16:59,228 - /home/runner/DiscordBot/_log.py - ERROR - list index out of range
+2023-12-11 02:37:19,699 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-11 02:37:21,210 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-11 11:56:37,192 - /home/runner/DiscordBot/_log.py - INFO - user: mohameddawoud._37071 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-11 11:56:38,791 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-11 12:16:13,270 - /home/runner/DiscordBot/_log.py - INFO - **Osama Ashraf** successfully submitted **Task #3** Mechanical
+2023-12-11 14:44:56,026 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-11 14:44:56,031 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-11 14:44:56,031 - /home/runner/DiscordBot/_log.py - DEBUG - 11-Dec-2023 12_44_56
+2023-12-11 14:45:00,886 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-11 15:31:44,451 - /home/runner/DiscordBot/_log.py - ERROR - **Heidi Abdel-rahman** coundn't submitted **Task #5**
+2023-12-11 15:31:44,452 - /home/runner/DiscordBot/_log.py - ERROR - list index out of range
+2023-12-11 15:49:20,334 - /home/runner/DiscordBot/_log.py - INFO - **Heidi Abdel-rahman** successfully submitted **Task #5** Electronics
+2023-12-11 17:16:29,768 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-11 17:16:29,774 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-11 17:16:29,775 - /home/runner/DiscordBot/_log.py - DEBUG - 11-Dec-2023 15_16_29
+2023-12-11 17:16:33,927 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-11 17:51:52,794 - /home/runner/DiscordBot/_log.py - INFO - user: mohameddawoud._37071 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-11 17:51:54,602 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-11 19:32:40,080 - /home/runner/DiscordBot/_log.py - INFO - **mohamed fathy** successfully submitted **Task #3** Mechanical
+2023-12-11 20:40:30,481 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Ramdan** successfully submitted **Task #3** Mechanical
+2023-12-11 20:49:05,617 - /home/runner/DiscordBot/_log.py - INFO - **Abdallah Galal** successfully submitted **Task #3** Mechanical
+2023-12-11 21:16:06,156 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 2 *Mechanical*
+2023-12-11 21:16:08,096 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-11 21:17:48,694 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-11 21:17:50,599 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-12 01:18:08,404 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-12 01:18:08,405 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-12 01:18:08,405 - /home/runner/DiscordBot/_log.py - DEBUG - 11-Dec-2023 23_18_08
+2023-12-12 01:18:11,902 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-12 01:27:34,976 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-12 01:27:35,087 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-12 01:27:35,087 - /home/runner/DiscordBot/_log.py - DEBUG - 11-Dec-2023 23_27_35
+2023-12-12 01:27:39,759 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-12 01:51:37,688 - /home/runner/DiscordBot/_log.py - INFO - **Aya samir** successfully submitted **Task #5** Electronics
+2023-12-12 06:38:48,118 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-12 06:38:48,219 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-12 06:38:48,251 - /home/runner/DiscordBot/_log.py - DEBUG - 12-Dec-2023 04_38_48
+2023-12-12 06:38:52,431 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-12 06:46:45,898 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-12 06:46:48,557 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-12 08:09:42,040 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-12 08:09:42,041 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-12 08:09:42,041 - /home/runner/DiscordBot/_log.py - DEBUG - 12-Dec-2023 06_09_42
+2023-12-12 08:09:46,579 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-12 09:57:31,337 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-12 09:57:31,347 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-12 09:57:31,347 - /home/runner/DiscordBot/_log.py - DEBUG - 12-Dec-2023 07_57_31
+2023-12-12 09:57:34,837 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-12 17:55:46,270 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-12 17:55:49,645 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-12 18:02:55,267 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-12 18:02:56,986 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-12 18:09:11,696 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-12 18:09:13,422 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:28:30,553 - /home/runner/DiscordBot/_log.py - INFO - user: islam3937. requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:28:32,270 - /home/runner/DiscordBot/_log.py - INFO - user: ahmed_riyad21 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:28:33,506 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:28:33,514 - /home/runner/DiscordBot/_log.py - INFO - user: rawann18 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:28:34,739 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:28:35,013 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:28:38,478 - /home/runner/DiscordBot/_log.py - INFO - user: tasnem.sabry requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:28:39,939 - /home/runner/DiscordBot/_log.py - INFO - user: saraelbrmawy requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:28:41,032 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:28:41,239 - /home/runner/DiscordBot/_log.py - INFO - user: hasan04241 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:28:42,491 - /home/runner/DiscordBot/_log.py - INFO - user: sherouq requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:28:43,523 - /home/runner/DiscordBot/_log.py - INFO - user: omarabdelhakeem. requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:28:44,572 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-13 01:28:44,749 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:28:44,931 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:28:45,095 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:28:51,462 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:28:52,629 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:28:59,426 - /home/runner/DiscordBot/_log.py - INFO - user: _nassar. requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:29:00,863 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:29:16,269 - /home/runner/DiscordBot/_log.py - INFO - user: omarhassan0398 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:29:17,308 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:29:30,939 - /home/runner/DiscordBot/_log.py - INFO - user: omarabdelhakeem. requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:29:32,409 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:29:48,758 - /home/runner/DiscordBot/_log.py - INFO - user: omartaha6788 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:29:50,119 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:29:52,879 - /home/runner/DiscordBot/_log.py - INFO - user: saraelbrmawy requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:29:54,067 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-13 01:30:16,087 - /home/runner/DiscordBot/_log.py - INFO - user: ayasamir444_90083 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-13 01:30:17,574 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:31:07,278 - /home/runner/DiscordBot/_log.py - INFO - user: saraelbrmawy requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:31:08,850 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:32:04,582 - /home/runner/DiscordBot/_log.py - INFO - user: omarabdelhakeem. requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:32:06,027 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:32:14,754 - /home/runner/DiscordBot/_log.py - INFO - user: hazemnasr. requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:32:16,063 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:32:32,107 - /home/runner/DiscordBot/_log.py - INFO - user: sohailabakr requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:32:33,796 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:32:48,196 - /home/runner/DiscordBot/_log.py - INFO - user: hagermohamed0170 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:32:50,250 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:34:09,681 - /home/runner/DiscordBot/_log.py - INFO - user: hagermohamed0170 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-13 01:34:10,938 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 01:37:16,890 - /home/runner/DiscordBot/_log.py - INFO - user: saraelbrmawy requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 01:37:18,069 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 02:05:55,801 - /home/runner/DiscordBot/_log.py - INFO - user: heidiabdelrahman requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 02:05:57,685 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 02:28:51,923 - /home/runner/DiscordBot/_log.py - INFO - user: farah mahmoud#3426 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 02:28:53,833 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 02:31:33,924 - /home/runner/DiscordBot/_log.py - INFO - user: farah mahmoud#3426 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-13 02:31:35,126 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 03:15:47,220 - /home/runner/DiscordBot/_log.py - INFO - user: hagerahmed0323 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 03:15:49,163 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 05:35:52,703 - /home/runner/DiscordBot/_log.py - INFO - user: mostafa_asaad requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 05:35:54,478 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 08:14:43,794 - /home/runner/DiscordBot/_log.py - INFO - user: salmasameh_126_51284 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 08:14:45,517 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 08:18:02,992 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-13 08:18:04,254 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 08:45:04,841 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-13 08:45:04,847 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-13 08:45:04,847 - /home/runner/DiscordBot/_log.py - DEBUG - 13-Dec-2023 06_45_04
+2023-12-13 08:45:09,267 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-13 09:03:49,823 - /home/runner/DiscordBot/_log.py - INFO - user: mernaatef requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 09:03:52,424 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 10:43:17,409 - /home/runner/DiscordBot/_log.py - INFO - user: mariamosman281 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 10:43:18,949 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 10:56:39,887 - /home/runner/DiscordBot/_log.py - INFO - user: mariamnader. requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 10:56:42,289 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 11:42:29,467 - /home/runner/DiscordBot/_log.py - INFO - user: mariamgeorge131 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 11:42:35,455 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 12:01:44,539 - /home/runner/DiscordBot/_log.py - INFO - user: dinaelsherbiny requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 12:01:48,036 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 13:26:50,738 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedmedhat749 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 13:26:52,907 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 13:27:21,950 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedmedhat749 requested to get feedback Task_Number: 4 *Electrical*
+2023-12-13 13:27:23,153 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 13:27:35,235 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedmedhat749 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-13 13:27:38,106 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 13:38:01,258 - /home/runner/DiscordBot/_log.py - INFO - user: _ahmedsharaf requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 13:38:03,663 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 13:38:17,910 - /home/runner/DiscordBot/_log.py - INFO - user: _ahmedsharaf requested to get feedback Task_Number: 2 *Electrical*
+2023-12-13 13:38:20,978 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 15:32:26,988 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-13 15:32:29,426 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 15:39:34,861 - /home/runner/DiscordBot/_log.py - INFO - user: emanatef._81866 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 15:39:37,941 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 17:39:24,670 - /home/runner/DiscordBot/_log.py - INFO - user: 8enwa_51954 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-13 17:39:26,502 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-13 17:39:51,493 - /home/runner/DiscordBot/_log.py - INFO - user: 8enwa_51954 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 17:39:53,885 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-13 17:40:10,951 - /home/runner/DiscordBot/_log.py - INFO - user: 8enwa_51954 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-13 17:40:12,495 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-13 17:40:24,806 - /home/runner/DiscordBot/_log.py - INFO - user: _nassar. requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 17:40:26,523 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 17:40:57,243 - /home/runner/DiscordBot/_log.py - INFO - user: _nassar. requested to get feedback Task_Number: 2 *Electrical*
+2023-12-13 17:40:58,545 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 17:41:19,646 - /home/runner/DiscordBot/_log.py - INFO - user: 8enwa_51954 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 17:41:20,981 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-13 17:41:24,728 - /home/runner/DiscordBot/_log.py - INFO - user: tasneem1859 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 17:41:26,353 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 17:41:31,932 - /home/runner/DiscordBot/_log.py - INFO - user: omartaha6788 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 17:41:33,182 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 18:28:54,666 - /home/runner/DiscordBot/_log.py - INFO - user: 8enwa_51954 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-13 18:28:55,948 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 18:31:22,044 - /home/runner/DiscordBot/_log.py - INFO - user: 8enwa_51954 requested to get feedback Task_Number: 4 *Electrical*
+2023-12-13 18:31:24,421 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 18:31:47,885 - /home/runner/DiscordBot/_log.py - INFO - user: 8enwa_51954 requested to get feedback Task_Number: 2 *Electrical*
+2023-12-13 18:31:49,092 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 18:51:48,084 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-13 18:51:50,412 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-13 18:56:28,829 - /home/runner/DiscordBot/_log.py - INFO - user: mohameddawoud._37071 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-13 18:56:34,810 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-14 00:06:54,539 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-14 00:06:54,551 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-14 00:06:54,553 - /home/runner/DiscordBot/_log.py - DEBUG - 13-Dec-2023 22_06_54
+2023-12-14 00:06:58,527 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-14 00:19:53,780 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-14 00:19:55,349 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-14 03:07:41,990 - /home/runner/DiscordBot/_log.py - INFO - user: tasneem1859 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-14 03:07:43,948 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-14 06:42:06,352 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-14 06:42:08,411 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-14 10:44:16,238 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedalmohamdy requested to get feedback Task_Number: 3 *Electrical*
+2023-12-14 10:44:17,733 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-14 13:16:18,426 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedalmohamdy requested to get feedback Task_Number: 2 *Electrical*
+2023-12-14 13:16:20,365 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-14 13:16:27,182 - /home/runner/DiscordBot/_log.py - INFO - user: ahmedalmohamdy requested to get feedback Task_Number: 3 *Electrical*
+2023-12-14 13:16:28,657 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-14 14:18:32,269 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-14 14:18:32,274 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-14 14:18:32,274 - /home/runner/DiscordBot/_log.py - DEBUG - 14-Dec-2023 12_18_32
+2023-12-14 14:18:36,318 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-14 17:38:11,058 - /home/runner/DiscordBot/_log.py - INFO - user: mostafa_asaad requested to get feedback Task_Number: 3 *Electrical*
+2023-12-14 17:38:14,331 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-14 17:46:48,586 - /home/runner/DiscordBot/_log.py - ERROR - **Mahmoud Samy** successfully submitted **project #1**
+2023-12-14 19:43:16,209 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-14 19:43:16,806 - /home/runner/DiscordBot/_log.py - INFO - The msg: 
+"None"
+is scheduled for `2023-12-14 23:00`.
+Remaining time: `3:16:43.455364`.
+
+2023-12-14 20:42:24,108 - /home/runner/DiscordBot/_log.py - ERROR - **Mahmoud Samy** successfully submitted **project #1**
+2023-12-14 20:45:59,599 - /home/runner/DiscordBot/_log.py - ERROR - **Mahmoud Samy** coundn't submitted **Task #1**
+2023-12-14 20:45:59,600 - /home/runner/DiscordBot/_log.py - ERROR - 404 Not Found (error code: 10008): Unknown Message
+2023-12-14 20:46:47,679 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-14 20:46:47,681 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-14 20:46:47,681 - /home/runner/DiscordBot/_log.py - DEBUG - 14-Dec-2023 18_46_47
+2023-12-14 20:46:51,101 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-14 20:55:08,294 - /home/runner/DiscordBot/_log.py - INFO - **Omar Ibrahim** successfully submitted **project #1**
+2023-12-14 21:12:36,946 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-14 21:12:36,950 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-14 21:12:36,950 - /home/runner/DiscordBot/_log.py - DEBUG - 14-Dec-2023 19_12_36
+2023-12-14 21:12:41,940 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-14 21:14:01,379 - /home/runner/DiscordBot/_log.py - INFO - **Hager Ahmed** successfully submitted **project #1**
+2023-12-14 21:21:32,199 - /home/runner/DiscordBot/_log.py - INFO - **Omar Ibrahim** successfully submitted **project #1**
+2023-12-14 21:27:21,942 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Sharaf** successfully submitted **project #1**
+2023-12-14 22:08:58,900 - /home/runner/DiscordBot/_log.py - INFO - **Hasan Maher** successfully submitted **project #1**
+2023-12-14 22:27:31,911 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Almohamdy** successfully submitted **project #1**
+2023-12-14 22:31:02,507 - /home/runner/DiscordBot/_log.py - INFO - **Omar taha** successfully submitted **project #1**
+2023-12-14 22:40:42,231 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Samy** successfully submitted **project #1**
+2023-12-14 22:51:26,004 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy requested to send a message
+2023-12-14 22:51:26,549 - /home/runner/DiscordBot/_log.py - INFO - The msg: 
+"Your Sixth Task"
+is scheduled for `2023-12-14 23:00`.
+Remaining time: `0:08:33.756835`.
+
+2023-12-14 22:59:42,907 - /home/runner/DiscordBot/_log.py - INFO - **Mohamed abdelghani** successfully submitted **project #1**
+2023-12-14 23:00:01,378 - /home/runner/DiscordBot/_log.py - INFO - Scheduled time has passed. Sending the message now.
+2023-12-14 23:00:02,243 - /home/runner/DiscordBot/_log.py - INFO - User:mahmoudsamy created a thread Task  6
+2023-12-14 23:00:02,988 - /home/runner/DiscordBot/_log.py - INFO - mahmoudsamy sent a msg in Task  6: "Your Sixth Task" and file: Task_6.pdf
+2023-12-14 23:00:18,992 - /home/runner/DiscordBot/_log.py - INFO - **Omar taha** successfully submitted **project #1**
+2023-12-14 23:02:26,774 - /home/runner/DiscordBot/_log.py - INFO - **Farah Mahmoud** successfully submitted **project #1**
+2023-12-14 23:15:24,046 - /home/runner/DiscordBot/_log.py - INFO - **Ahmed Riyad** successfully submitted **project #1**
+2023-12-14 23:15:33,414 - /home/runner/DiscordBot/_log.py - INFO - **Rawan Amr** successfully submitted **project #1**
+2023-12-14 23:25:14,472 - /home/runner/DiscordBot/_log.py - INFO - **Tasnem.sabry** successfully submitted **project #1**
+2023-12-14 23:51:17,181 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-14 23:51:19,004 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in moderator-only: "None" and file: 7AD247AA-74E0-40D0-BED7-1D4194B4FEB7.jpg
+2023-12-15 00:12:42,460 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-15 00:12:42,472 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-15 00:12:42,487 - /home/runner/DiscordBot/_log.py - DEBUG - 14-Dec-2023 22_12_42
+2023-12-15 00:12:47,460 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-15 08:08:44,621 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-15 08:08:44,635 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-15 08:08:44,636 - /home/runner/DiscordBot/_log.py - DEBUG - 15-Dec-2023 06_08_44
+2023-12-15 08:08:50,667 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-15 10:22:37,678 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-15 10:22:37,681 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-15 10:22:37,681 - /home/runner/DiscordBot/_log.py - DEBUG - 15-Dec-2023 08_22_37
+2023-12-15 10:22:41,017 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-15 11:06:39,692 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-15 11:06:39,696 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-15 11:06:39,696 - /home/runner/DiscordBot/_log.py - DEBUG - 15-Dec-2023 09_06_39
+2023-12-15 11:06:43,371 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-15 12:44:31,863 - /home/runner/DiscordBot/_log.py - INFO - **Mahmoud Ramdan** successfully submitted **Task #4** Mechanical
+2023-12-15 13:27:30,569 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-15 13:27:30,573 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-15 13:27:30,573 - /home/runner/DiscordBot/_log.py - DEBUG - 15-Dec-2023 11_27_30
+2023-12-15 13:27:34,173 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-15 13:42:21,920 - /home/runner/DiscordBot/_log.py - INFO - user: mernaatef requested to get feedback Task_Number: 2 *Electrical*
+2023-12-15 13:42:23,614 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-15 16:07:07,412 - /home/runner/DiscordBot/_log.py - INFO - user: mernaatef requested to get feedback Task_Number: 2 *Electrical*
+2023-12-15 16:07:09,553 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-15 16:07:38,179 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-15 16:07:42,187 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-15 16:16:28,028 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-15 16:16:28,037 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-15 16:16:28,038 - /home/runner/DiscordBot/_log.py - DEBUG - 15-Dec-2023 14_16_28
+2023-12-15 16:16:31,671 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-15 23:04:50,225 - /home/runner/DiscordBot/_log.py - INFO - **Mohamed Dawoud** successfully submitted **Task #4** Mechanical
+2023-12-15 23:05:12,488 - /home/runner/DiscordBot/_log.py - INFO - user: mohameddawoud._37071 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-15 23:05:15,214 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-15 23:41:37,019 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-15 23:41:37,032 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-15 23:41:37,032 - /home/runner/DiscordBot/_log.py - DEBUG - 15-Dec-2023 21_41_37
+2023-12-15 23:41:43,423 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-16 00:41:17,813 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-16 00:41:17,953 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-16 00:41:17,953 - /home/runner/DiscordBot/_log.py - DEBUG - 15-Dec-2023 22_41_17
+2023-12-16 00:41:21,854 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-16 02:22:26,680 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-16 02:22:26,680 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-16 02:22:26,681 - /home/runner/DiscordBot/_log.py - DEBUG - 16-Dec-2023 00_22_26
+2023-12-16 02:33:21,873 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-16 04:25:01,606 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-16 04:25:01,612 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-16 04:25:01,615 - /home/runner/DiscordBot/_log.py - DEBUG - 16-Dec-2023 02_25_01
+2023-12-16 04:25:05,919 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-16 06:13:25,001 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-16 06:13:25,004 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-16 06:13:25,005 - /home/runner/DiscordBot/_log.py - DEBUG - 16-Dec-2023 04_13_25
+2023-12-16 06:13:28,301 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-16 08:02:22,002 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-16 08:02:22,213 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-16 08:02:22,234 - /home/runner/DiscordBot/_log.py - DEBUG - 16-Dec-2023 06_02_22
+2023-12-16 08:02:26,372 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-16 08:04:44,319 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-16 08:04:44,322 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-16 08:04:44,322 - /home/runner/DiscordBot/_log.py - DEBUG - 16-Dec-2023 06_04_44
+2023-12-16 08:04:47,683 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-16 08:13:30,057 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-16 08:13:30,191 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-16 08:13:30,191 - /home/runner/DiscordBot/_log.py - DEBUG - 16-Dec-2023 06_13_30
+2023-12-16 08:13:33,727 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-16 09:56:35,624 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-16 09:56:38,408 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-16 13:45:00,468 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-16 13:45:02,296 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-16 13:54:11,509 - /home/runner/DiscordBot/_log.py - INFO - **Youssef salama** successfully submitted **Task #4** Electronics
+2023-12-17 02:45:46,694 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-17 02:45:46,704 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-17 02:45:46,704 - /home/runner/DiscordBot/_log.py - DEBUG - 17-Dec-2023 00_45_46
+2023-12-17 02:45:50,040 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-17 09:28:41,147 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-17 09:28:41,151 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-17 09:28:41,151 - /home/runner/DiscordBot/_log.py - DEBUG - 17-Dec-2023 07_28_41
+2023-12-17 09:28:45,056 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-17 10:20:49,373 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-17 10:20:53,231 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-17 14:36:20,971 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-17 14:36:20,974 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-17 14:36:20,975 - /home/runner/DiscordBot/_log.py - DEBUG - 17-Dec-2023 12_36_20
+2023-12-17 14:36:28,604 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-17 17:01:00,472 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-17 17:01:00,530 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-17 17:01:00,530 - /home/runner/DiscordBot/_log.py - DEBUG - 17-Dec-2023 15_01_00
+2023-12-17 17:01:05,353 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-17 17:47:27,498 - /home/runner/DiscordBot/_log.py - INFO - user: hagermohamed0170 requested to get feedback Task_Number: 3 *Electrical*
+2023-12-17 17:47:29,699 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-17 18:58:13,961 - /home/runner/DiscordBot/_log.py - INFO - user: mohameddawoud._37071 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-17 18:58:15,556 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-17 19:52:51,813 - /home/runner/DiscordBot/_log.py - INFO - **Osama Ashraf** successfully submitted **Task #4** Mechanical
+2023-12-17 20:31:51,336 - /home/runner/DiscordBot/_log.py - INFO - **Mohammed Waly** successfully submitted **Task #4** Mechanical
+2023-12-17 22:14:46,471 - /home/runner/DiscordBot/_log.py - INFO - **mohamed fathy** successfully submitted **Task #4** Mechanical
+2023-12-17 22:36:28,310 - /home/runner/DiscordBot/_log.py - INFO - **Abdallah Galal** successfully submitted **Task #4** Mechanical
+2023-12-18 04:00:01,791 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-18 04:00:01,793 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-18 04:00:01,794 - /home/runner/DiscordBot/_log.py - DEBUG - 18-Dec-2023 02_00_01
+2023-12-18 04:00:06,809 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-18 10:17:49,319 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-18 10:17:49,326 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-18 10:17:49,327 - /home/runner/DiscordBot/_log.py - DEBUG - 18-Dec-2023 08_17_49
+2023-12-18 10:17:52,954 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-18 17:14:43,376 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-18 17:14:43,389 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-18 17:14:43,396 - /home/runner/DiscordBot/_log.py - DEBUG - 18-Dec-2023 15_14_43
+2023-12-18 17:14:49,158 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-18 17:20:47,171 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-18 17:20:47,174 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-18 17:20:47,175 - /home/runner/DiscordBot/_log.py - DEBUG - 18-Dec-2023 15_20_47
+2023-12-18 17:20:51,615 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-18 17:34:08,176 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-18 17:34:08,294 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-18 17:34:08,295 - /home/runner/DiscordBot/_log.py - DEBUG - 18-Dec-2023 15_34_08
+2023-12-18 17:34:12,367 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-18 21:10:22,228 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-18 21:10:22,231 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-18 21:10:22,232 - /home/runner/DiscordBot/_log.py - DEBUG - 18-Dec-2023 19_10_22
+2023-12-18 21:10:27,189 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-19 00:06:03,415 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-19 00:06:03,553 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-19 00:06:03,554 - /home/runner/DiscordBot/_log.py - DEBUG - 18-Dec-2023 22_06_03
+2023-12-19 00:06:06,929 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-19 00:21:12,320 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-19 00:21:13,341 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in general: "None" and file: Dead_test_file.txt
+2023-12-19 00:59:38,973 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-19 00:59:39,979 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-19 00:59:39,011 - /home/runner/DiscordBot/_log.py - DEBUG - 18-Dec-2023 22_59_39
+2023-12-19 00:59:43,199 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-19 01:49:31,338 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-19 01:49:31,344 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-19 01:49:31,348 - /home/runner/DiscordBot/_log.py - DEBUG - 18-Dec-2023 23_49_31
+2023-12-19 01:49:36,085 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-19 02:58:28,566 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-19 02:58:32,715 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-19 08:09:27,248 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-19 08:09:27,251 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-19 08:09:27,253 - /home/runner/DiscordBot/_log.py - DEBUG - 19-Dec-2023 06_09_27
+2023-12-19 08:09:31,893 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-19 10:12:27,019 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-19 10:12:27,024 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-19 10:12:27,024 - /home/runner/DiscordBot/_log.py - DEBUG - 19-Dec-2023 08_12_27
+2023-12-19 10:12:30,698 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-19 11:45:21,918 - /home/runner/DiscordBot/_log.py - INFO - user: mernaatef requested to get feedback Task_Number: 4 *Electrical*
+2023-12-19 11:45:23,905 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-19 12:07:32,881 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 requested to send a message
+2023-12-19 12:07:33,840 - /home/runner/DiscordBot/_log.py - INFO - omarx6825 sent a msg in moderator-only: "None" and file: Dead_test_file.txt
+2023-12-20 01:20:40,595 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-20 01:20:42,309 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-20 01:20:47,419 - /home/runner/DiscordBot/_log.py - INFO - user: youssefsalama0532_75933 requested to get feedback Task_Number: 4 *Mechanical*
+2023-12-20 01:20:48,574 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-20 02:49:09,506 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-20 02:49:09,507 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-20 02:49:09,508 - /home/runner/DiscordBot/_log.py - DEBUG - 20-Dec-2023 00_49_09
+2023-12-20 02:49:14,028 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-20 04:19:33,366 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-20 04:19:33,369 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-20 04:19:33,370 - /home/runner/DiscordBot/_log.py - DEBUG - 20-Dec-2023 02_19_33
+2023-12-20 04:19:37,281 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-20 06:42:48,694 - /home/runner/DiscordBot/_log.py - INFO - user: saraelbrmawy requested to get feedback Task_Number: 2 *Electrical*
+2023-12-20 06:42:50,407 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-20 06:43:12,822 - /home/runner/DiscordBot/_log.py - INFO - user: saraelbrmawy requested to get feedback Task_Number: 3 *Electrical*
+2023-12-20 06:43:14,094 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-20 15:43:12,679 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-20 15:43:12,691 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-20 15:43:12,692 - /home/runner/DiscordBot/_log.py - DEBUG - 20-Dec-2023 13_43_12
+2023-12-20 15:43:16,585 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-21 01:12:13,843 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-21 01:12:13,847 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-21 01:12:13,847 - /home/runner/DiscordBot/_log.py - DEBUG - 20-Dec-2023 23_12_13
+2023-12-21 01:12:17,040 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-21 03:42:13,480 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-21 03:42:13,548 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-21 03:42:13,549 - /home/runner/DiscordBot/_log.py - DEBUG - 21-Dec-2023 01_42_13
+2023-12-21 03:42:16,940 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-22 03:34:22,500 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-22 03:34:22,609 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-22 03:34:22,610 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 01_34_22
+2023-12-22 03:34:26,305 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-22 05:30:01,802 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-22 05:30:01,906 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-22 05:30:01,906 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 03_30_01
+2023-12-22 05:30:08,833 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-22 07:00:58,261 - /home/runner/DiscordBot/_log.py - INFO - user: hasan04241 requested to get feedback Task_Number: 4 *Electrical*
+2023-12-22 07:01:04,248 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-22 10:51:35,213 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-22 10:51:35,214 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-22 10:51:35,214 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 08_51_35
+2023-12-22 10:51:38,371 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-22 14:05:18,354 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-22 14:05:18,356 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-22 14:05:18,357 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 12_05_18
+2023-12-22 14:05:21,670 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-22 14:47:40,944 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-22 14:47:41,034 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-22 14:47:41,035 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 12_47_41
+2023-12-22 14:47:44,796 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-22 18:51:56,488 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-22 18:51:56,489 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-22 18:51:56,527 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 16_51_56
+2023-12-22 18:52:08,064 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-22 20:24:27,591 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-22 20:24:27,598 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-22 20:24:27,598 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 18_24_27
+2023-12-22 20:24:35,268 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-22 22:47:14,141 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-22 22:47:14,209 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-22 22:47:14,210 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 20_47_14
+2023-12-22 22:47:17,716 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-22 23:47:53,666 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-22 23:47:53,667 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-22 23:47:53,667 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 21_47_53
+2023-12-22 23:47:57,205 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-23 00:48:25,861 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-23 00:48:25,861 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-23 00:48:25,861 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 22_48_25
+2023-12-23 00:48:29,158 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-23 01:48:30,003 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-23 01:48:30,003 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-23 01:48:30,003 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 23_48_30
+2023-12-23 01:48:33,499 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-23 01:51:52,745 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-23 01:51:52,749 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-23 01:51:52,749 - /home/runner/DiscordBot/_log.py - DEBUG - 22-Dec-2023 23_51_52
+2023-12-23 01:51:55,993 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-23 19:47:16,917 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-23 19:47:16,964 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-23 19:47:16,970 - /home/runner/DiscordBot/_log.py - DEBUG - 23-Dec-2023 17_47_16
+2023-12-23 19:47:20,525 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-24 09:07:14,434 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-24 09:07:14,434 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-24 09:07:14,434 - /home/runner/DiscordBot/_log.py - DEBUG - 24-Dec-2023 07_07_14
+2023-12-24 09:07:17,949 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-25 09:36:37,569 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-25 09:36:37,657 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-25 09:36:37,658 - /home/runner/DiscordBot/_log.py - DEBUG - 25-Dec-2023 07_36_37
+2023-12-25 09:36:41,715 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-25 21:01:34,285 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-25 21:01:34,288 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-25 21:01:34,288 - /home/runner/DiscordBot/_log.py - DEBUG - 25-Dec-2023 19_01_34
+2023-12-25 21:01:37,270 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-25 23:08:47,992 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-25 23:08:49,878 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2023-12-25 23:12:22,791 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2023-12-25 23:12:23,525 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-26 05:41:34,128 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-26 05:41:34,129 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-26 05:41:34,130 - /home/runner/DiscordBot/_log.py - DEBUG - 26-Dec-2023 03_41_34
+2023-12-26 05:41:37,401 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-26 19:46:42,864 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-26 19:46:42,901 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-26 19:46:42,902 - /home/runner/DiscordBot/_log.py - DEBUG - 26-Dec-2023 17_46_42
+2023-12-26 19:46:46,361 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-27 01:21:35,156 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-27 01:21:35,256 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-27 01:21:35,256 - /home/runner/DiscordBot/_log.py - DEBUG - 26-Dec-2023 23_21_35
+2023-12-27 01:21:38,528 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-27 03:11:35,976 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-27 03:11:36,055 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-27 03:11:36,055 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Dec-2023 01_11_36
+2023-12-27 03:11:39,469 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-27 10:07:00,600 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-27 10:07:00,771 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-27 10:07:00,772 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Dec-2023 08_07_00
+2023-12-27 10:07:05,197 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-27 11:19:51,483 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-27 11:19:51,664 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-27 11:19:51,664 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Dec-2023 09_19_51
+2023-12-27 11:19:55,395 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-27 11:54:11,571 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-27 11:54:11,654 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-27 11:54:11,655 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Dec-2023 09_54_11
+2023-12-27 11:54:16,390 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-27 13:58:50,956 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 3 *Mechanical*
+2023-12-27 13:58:52,927 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-27 13:59:02,375 - /home/runner/DiscordBot/_log.py - INFO - user: mohammedwaly.162 requested to get feedback Task_Number: 2 *Mechanical*
+2023-12-27 13:59:03,341 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2023-12-27 15:29:11,336 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-27 15:29:11,338 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-27 15:29:11,338 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Dec-2023 13_29_11
+2023-12-27 15:29:14,881 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-27 16:54:18,067 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-27 16:54:18,068 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-27 16:54:18,068 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Dec-2023 14_54_18
+2023-12-27 16:54:21,588 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-27 18:29:11,387 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-27 18:29:11,483 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-27 18:29:11,484 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Dec-2023 16_29_11
+2023-12-27 18:29:14,713 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-28 00:14:11,084 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-28 00:14:11,087 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-28 00:14:11,087 - /home/runner/DiscordBot/_log.py - DEBUG - 27-Dec-2023 22_14_11
+2023-12-28 00:14:14,199 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-28 14:56:30,864 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-28 14:56:30,957 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-28 14:56:30,958 - /home/runner/DiscordBot/_log.py - DEBUG - 28-Dec-2023 12_56_30
+2023-12-28 14:56:34,246 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-28 19:18:32,726 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-28 19:18:32,829 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-28 19:18:32,829 - /home/runner/DiscordBot/_log.py - DEBUG - 28-Dec-2023 17_18_32
+2023-12-28 19:18:36,076 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-28 23:08:32,840 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-28 23:08:32,925 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-28 23:08:32,926 - /home/runner/DiscordBot/_log.py - DEBUG - 28-Dec-2023 21_08_32
+2023-12-28 23:08:36,245 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-29 02:53:39,572 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-29 02:53:39,666 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-29 02:53:39,666 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Dec-2023 00_53_39
+2023-12-29 02:53:42,943 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-29 05:58:35,414 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-29 05:58:35,477 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-29 05:58:35,478 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Dec-2023 03_58_35
+2023-12-29 05:58:39,072 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-29 14:13:32,750 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-29 14:13:32,761 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-29 14:13:32,761 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Dec-2023 12_13_32
+2023-12-29 14:13:36,122 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-29 20:23:35,026 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-29 20:23:35,026 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-29 20:23:35,027 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Dec-2023 18_23_35
+2023-12-29 20:23:38,408 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-30 00:58:55,350 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-30 00:58:55,431 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-30 00:58:55,436 - /home/runner/DiscordBot/_log.py - DEBUG - 29-Dec-2023 22_58_55
+2023-12-30 00:58:58,795 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-30 03:08:54,680 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-30 03:08:54,726 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-30 03:08:54,734 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Dec-2023 01_08_54
+2023-12-30 03:08:59,550 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-30 04:18:52,483 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-30 04:18:52,568 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-30 04:18:52,569 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Dec-2023 02_18_52
+2023-12-30 04:18:55,991 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-30 04:23:53,795 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-30 04:23:53,800 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-30 04:23:53,800 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Dec-2023 02_23_53
+2023-12-30 04:23:57,349 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-30 06:43:56,512 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-30 06:43:56,584 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-30 06:43:56,585 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Dec-2023 04_43_56
+2023-12-30 06:44:00,552 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-30 07:09:09,969 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-30 07:09:09,969 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-30 07:09:09,969 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Dec-2023 05_09_09
+2023-12-30 07:09:17,527 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-30 08:43:52,700 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-30 08:43:52,705 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-30 08:43:52,706 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Dec-2023 06_43_52
+2023-12-30 08:43:56,262 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-30 10:43:53,194 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-30 10:43:53,197 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-30 10:43:53,197 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Dec-2023 08_43_53
+2023-12-30 10:43:56,677 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-30 17:23:59,867 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-30 17:23:59,872 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-30 17:23:59,872 - /home/runner/DiscordBot/_log.py - DEBUG - 30-Dec-2023 15_23_59
+2023-12-30 17:24:03,122 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-31 11:28:55,396 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-31 11:28:55,401 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-31 11:28:55,411 - /home/runner/DiscordBot/_log.py - DEBUG - 31-Dec-2023 09_28_55
+2023-12-31 11:28:59,229 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-31 11:33:58,303 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-31 11:33:58,403 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-31 11:33:58,403 - /home/runner/DiscordBot/_log.py - DEBUG - 31-Dec-2023 09_33_58
+2023-12-31 11:34:04,238 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-31 20:43:58,553 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-31 20:43:58,557 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-31 20:43:58,558 - /home/runner/DiscordBot/_log.py - DEBUG - 31-Dec-2023 18_43_58
+2023-12-31 20:44:04,243 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-31 21:03:59,948 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-31 21:03:59,949 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-31 21:03:59,949 - /home/runner/DiscordBot/_log.py - DEBUG - 31-Dec-2023 19_03_59
+2023-12-31 21:04:03,914 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-31 21:08:56,843 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-31 21:08:56,971 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-31 21:08:56,972 - /home/runner/DiscordBot/_log.py - DEBUG - 31-Dec-2023 19_08_56
+2023-12-31 21:09:00,619 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2023-12-31 21:29:01,833 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2023-12-31 21:29:01,833 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2023-12-31 21:29:01,834 - /home/runner/DiscordBot/_log.py - DEBUG - 31-Dec-2023 19_29_01
+2023-12-31 21:29:07,060 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-01 00:13:59,714 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-01 00:13:59,722 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-01 00:13:59,722 - /home/runner/DiscordBot/_log.py - DEBUG - 31-Dec-2023 22_13_59
+2024-01-01 00:14:06,459 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-01 05:23:53,056 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-01 05:23:53,060 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-01 05:23:53,060 - /home/runner/DiscordBot/_log.py - DEBUG - 01-Jan-2024 03_23_53
+2024-01-01 05:23:56,269 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-02 02:54:02,021 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-02 02:54:02,021 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-02 02:54:02,021 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Jan-2024 00_54_02
+2024-01-02 02:54:06,339 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-02 03:53:53,397 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-02 03:53:53,401 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-02 03:53:53,402 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Jan-2024 01_53_53
+2024-01-02 03:53:56,624 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-02 06:38:54,331 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-02 06:38:54,397 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-02 06:38:54,397 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Jan-2024 04_38_54
+2024-01-02 06:38:58,122 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-02 10:39:02,409 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-02 10:39:02,423 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-02 10:39:02,444 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Jan-2024 08_39_02
+2024-01-02 10:39:07,452 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-02 12:03:53,421 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-02 12:03:53,425 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-02 12:03:53,425 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Jan-2024 10_03_53
+2024-01-02 12:03:56,725 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-02 14:49:00,230 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-02 14:49:00,279 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-02 14:49:00,280 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Jan-2024 12_49_00
+2024-01-02 14:49:05,771 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-02 19:23:54,059 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-02 19:23:54,063 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-02 19:23:54,063 - /home/runner/DiscordBot/_log.py - DEBUG - 02-Jan-2024 17_23_54
+2024-01-02 19:23:57,729 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-03 16:28:53,761 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-03 16:28:53,877 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-03 16:28:53,877 - /home/runner/DiscordBot/_log.py - DEBUG - 03-Jan-2024 14_28_53
+2024-01-03 16:28:57,525 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-03 16:33:52,544 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-03 16:33:52,667 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-03 16:33:52,668 - /home/runner/DiscordBot/_log.py - DEBUG - 03-Jan-2024 14_33_52
+2024-01-03 16:33:56,857 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-03 19:48:55,182 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-03 19:48:55,185 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-03 19:48:55,185 - /home/runner/DiscordBot/_log.py - DEBUG - 03-Jan-2024 17_48_55
+2024-01-03 19:48:59,463 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-03 20:54:28,282 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-03 20:54:28,384 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-03 20:54:28,384 - /home/runner/DiscordBot/_log.py - DEBUG - 03-Jan-2024 18_54_28
+2024-01-03 20:54:31,399 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-08 02:34:25,362 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-08 02:34:25,363 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-08 02:34:25,363 - /home/runner/DiscordBot/_log.py - DEBUG - 08-Jan-2024 00_34_25
+2024-01-08 02:34:31,543 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
+2024-01-08 02:34:37,303 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2024-01-08 02:34:41,442 - /home/runner/DiscordBot/_log.py - ERROR - Failed to send feedback: list index out of range
+2024-01-08 02:35:28,143 - /home/runner/DiscordBot/_log.py - INFO - user: omarx6825 requested to get feedback Task_Number: 1 *Electrical*
+2024-01-08 02:35:29,808 - /home/runner/DiscordBot/_log.py - INFO - Seccussfully sent feedback
+2024-01-24 23:38:20,082 - /home/runner/DiscordBot/_log.py - INFO - -----------------------
+2024-01-24 23:38:20,083 - /home/runner/DiscordBot/_log.py - INFO - Script started...
+2024-01-24 23:38:20,084 - /home/runner/DiscordBot/_log.py - DEBUG - 24-Jan-2024 21_38_20
+2024-01-24 23:38:25,964 - /home/runner/DiscordBot/_log.py - INFO - Logged in as RAS
