@@ -37,12 +37,13 @@ class send_msg(commands.Cog):
         """
     await interaction.response.defer(ephemeral=True)
     user_id = str(interaction.user)
+    #print(interaction.user.id)
     channel = interaction.channel
     self.logger.info(f"{user_id} requested to send a message")
     self.TARGET_USER = [
         "omarx6825",
         "mahmoudsamy",
-        "abdullah_505"
+        "abdullah_505",
         'eslamsala7',
         'ibrahimeid.',
     ]
@@ -61,7 +62,7 @@ class send_msg(commands.Cog):
             except ValueError:
               await msg.edit(
                   content=
-                  "Error: Invalid scheduled time format. Please use the format `Year-Manth-Day HH:MM`."
+                  "Error: Invalid scheduled time format. Please use the format `Year-Month-Day HH:MM`."
               )
               self.logger.error(
                   f"Error: Invalid scheduled time format. Your scheduled_datetime is {scheduled_time}."
@@ -132,17 +133,17 @@ class send_msg(commands.Cog):
                   1165714663544205312)
 
               
-              role_id = 1165717484280758414  # Replace with your role ID
-              role = discord.utils.get(discussion_channel_id.guild.roles,
-                                       id=role_id)
+              # role_id = 1165717484280758414  # Replace with your role ID
+              # role = discord.utils.get(discussion_channel_id.guild.roles,
+              #                          id=role_id)
 
-              if role:
-                role_mention = role.mention
-                formatted_message = f"{role_mention}\nExciting news! A new challenge awaits you. Check The New Task"
+              # if role:
+              #   role_mention = role.mention
+              #   formatted_message = f"{role_mention}\nExciting news! A new challenge awaits you. Check The New Task"
 
-                await discussion_channel_id.send(formatted_message)
-              else:
-                self.logger.warning('Role not found in the server.')
+              #   await discussion_channel_id.send(formatted_message)
+              # else:
+              #   self.logger.warning('Role not found in the server.')
               
 
             except Exception as e:
