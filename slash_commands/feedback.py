@@ -20,6 +20,14 @@ class feedback(commands.Cog):
         'mohammedwaly.162',
         'mohamed_fathy.',
         'youssefsalama0532_75933',
+        "knockknock4652",
+        "ahmed.moshtak",
+        "ahmed.ibrahim_mechanical",
+        "mohamedhamdy_mechanical",
+        "mohamedtarek0492_21782",
+        "ibrahim_221",
+        "mohamed_goda_",
+        "ahmed_abdelnaser",
     ]
 
   @app_commands.command(name="feedback", description="Get Your Task Feedback")
@@ -82,7 +90,7 @@ class feedback(commands.Cog):
       if str(id) in self.Mechanical_users:
         FeedBack_RangeName = 'Mechanical Feedback!A1:Z100'
       else:
-        FeedBack_RangeName = 'Electrical Feedback!A1:AL100'
+        FeedBack_RangeName = 'Electrical Feedback (Rookies)!A1:AJ100'
 
       result = sheet.values().get(spreadsheetId=FeedBack_SPREADSHEET_ID,
                                   range=FeedBack_RangeName).execute()
@@ -99,9 +107,31 @@ class feedback(commands.Cog):
         if str(row[0]) == str(id):
 
           try:
-            Task = row[int(task_number) * 2]
+            task_num = int(task_number) * 2
+            note_num = int(task_number) * 2 + 1
+            if str(id) not in self.Mechanical_users:
+              if int(task_number) >= 6 and int(task_number) <9:
+                task_num+=2
+                note_num+=2
+              elif int(task_number) >= 9:
+                task_num+=4
+                note_num+=4
+              if str(task_number) == "01":
+                print("testing")
+                task_num = 12
+                note_num = 13
+              elif task_number == "02":
+                task_num = 20
+                note_num = 11
+              elif task_number == "03":
+                task_num = 34
+                note_num = 35
+
+            Task = row[task_num]
+
             try:
-              Notes = row[int(task_number) * 2 + 1]
+              Notes = row[note_num]
+
               fd = f"**Grade**: {Task}\n__**Notes**__:\n{Notes}"
             except:
               fd = f"**Grade**: {Task}"
