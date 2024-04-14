@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 from datetime import datetime
-from keep_alive import keep_alive
+# from keep_alive import keep_alive
 from _log import _logger
 from discord import app_commands
 
@@ -45,7 +45,7 @@ class MyBot(commands.Bot):
 # -------------------------------------------------------------------------------------
 
 if __name__ == "__main__":
-  keep_alive()
+  # keep_alive()
 
   # Instantiate the bot and run it
   bot = MyBot()
@@ -66,5 +66,5 @@ if __name__ == "__main__":
           f"Failed! Couldn't reload the command.See error below:\n```{e}```")
 
   bot.run(
-      'MTE2NjQwMjg1NDg0NDY0OTQ5Mw.Gmsco-.-VpZ1LUoKj7LOj8e9hceUXlqIaeRSGAMmVkb9Y'
+      'MTE2NjQwMjg1NDg0NDY0OTQ5Mw.GFo0F4.sVDbRw1BTOykEPHx65x1Hdy8uAZi8XDn4AW3v4'
   )
