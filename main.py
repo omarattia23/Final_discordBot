@@ -101,5 +101,5 @@ if __name__ == "__main__":
 
 
     threading.Thread(target=create_server).start()
-
+    print(Token)
     bot.run(Token)
