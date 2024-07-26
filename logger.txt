@@ -1,0 +1,195 @@
+2024-07-26 14:47:00,092 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 14:47:00,093 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 14:47:00,093 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 14_47_00
+2024-07-26 14:47:45,770 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 14:47:45,770 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 14:47:45,770 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 14_47_45
+2024-07-26 14:49:19,141 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 14:49:19,141 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 14:49:19,142 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 14_49_19
+2024-07-26 14:49:24,182 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 15:00:25,346 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 15:00:25,346 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 15:00:25,346 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 15_00_25
+2024-07-26 15:00:29,645 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 15:05:43,274 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:05:43,274 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-26 15:07:22,794 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:07:22,796 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-26 15:08:46,004 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:08:46,005 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-26 15:12:18,222 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 15:12:18,222 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 15:12:18,223 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 15_12_18
+2024-07-26 15:12:22,685 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 15:12:46,868 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:12:46,869 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - Fernet key must be 32 url-safe base64-encoded bytes.
+2024-07-26 15:17:44,865 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 15:17:44,865 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 15:17:44,866 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 15_17_44
+2024-07-26 15:17:48,867 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 15:18:12,229 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:18:12,231 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - 
+2024-07-26 15:18:55,388 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 15:18:55,390 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - 
+2024-07-26 15:20:21,026 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 15:20:21,027 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - 
+2024-07-26 15:21:08,863 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 15:21:08,864 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 15:21:08,864 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 15_21_08
+2024-07-26 15:21:14,316 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 15:21:29,095 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:21:29,095 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:23:07,375 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:23:07,376 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:24:19,883 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:24:19,883 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:25:07,338 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 15:25:07,338 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 15:25:07,339 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 15_25_07
+2024-07-26 15:25:11,735 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 15:25:29,709 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:25:29,709 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:26:35,170 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 15:26:35,171 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 15:26:35,171 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 15_26_35
+2024-07-26 15:26:39,179 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 15:26:53,899 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:26:53,899 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:27:55,546 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 15:27:55,546 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 15:27:55,547 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 15_27_55
+2024-07-26 15:28:00,420 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 15:28:03,632 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:28:03,633 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:29:02,110 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:29:02,111 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:30:37,058 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:30:37,058 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:31:22,344 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:31:22,345 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:32:33,653 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:32:33,654 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:34:08,621 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 15:34:08,622 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 15:34:08,622 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 15_34_08
+2024-07-26 15:34:12,641 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 15:34:20,869 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:34:20,869 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:35:11,479 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:35:11,480 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:36:43,382 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 15:36:43,383 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 15:36:43,383 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 15_36_43
+2024-07-26 15:36:47,779 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 15:36:52,255 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:36:52,255 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:38:25,809 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:38:25,810 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 15:40:06,053 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 15:40:06,054 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - expected str, bytes or os.PathLike object, not dict
+2024-07-26 21:06:17,375 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 21:06:17,376 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 21:06:17,376 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 21_06_17
+2024-07-26 21:06:21,954 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 21:06:47,747 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:06:47,748 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - [WinError 32] The process cannot access the file because it is being used by another process: 'temp/gridpaper.pdf'
+2024-07-26 21:08:54,084 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 21:08:54,085 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 21:08:54,085 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 21_08_54
+2024-07-26 21:08:58,249 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 21:09:22,972 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:09:22,972 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - [WinError 32] The process cannot access the file because it is being used by another process: 'temp/gridpaper.pdf'
+2024-07-26 21:12:36,893 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 21:12:36,894 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 21:12:36,894 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 21_12_36
+2024-07-26 21:12:40,886 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 21:13:03,978 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:13:03,979 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - [WinError 32] The process cannot access the file because it is being used by another process: 'temp/gridpaper.pdf'
+2024-07-26 21:14:32,608 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:14:32,608 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - [WinError 32] The process cannot access the file because it is being used by another process: 'temp/gridpaper.pdf'
+2024-07-26 21:15:37,856 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:15:37,857 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - 'send_task' object has no attribute 'Mechanical_users'
+2024-07-26 21:16:53,193 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 21:16:53,193 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - [WinError 32] The process cannot access the file because it is being used by another process: 'temp/gridpaper.pdf'
+2024-07-26 21:17:48,280 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 21:17:48,281 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - [WinError 32] The process cannot access the file because it is being used by another process: 'temp/gridpaper.pdf'
+2024-07-26 21:22:02,070 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 21:22:02,070 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 21:22:02,071 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 21_22_02
+2024-07-26 21:22:06,397 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 21:22:24,103 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 21:22:24,105 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - [WinError 32] The process cannot access the file because it is being used by another process: 'temp/gridpaper.pdf'
+2024-07-26 21:25:21,472 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 21:25:21,473 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 21:25:21,473 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 21_25_21
+2024-07-26 21:25:25,580 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 21:25:29,572 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 21:25:29,573 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - write() argument must be str, not bytes
+2024-07-26 21:27:58,907 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 21:27:58,908 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 21:27:58,908 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 21_27_58
+2024-07-26 21:28:03,081 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 21:28:10,614 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 21:28:10,615 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - [WinError 32] The process cannot access the file because it is being used by another process: 'temp/gridpaper.pdf'
+2024-07-26 21:29:04,560 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 21:29:04,561 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - object NoneType can't be used in 'await' expression
+2024-07-26 21:30:25,663 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 21:30:25,665 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - 'str' object has no attribute 'close'
+2024-07-26 21:31:36,401 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 21:31:36,402 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - [WinError 32] The process cannot access the file because it is being used by another process: 'temp/gridpaper.pdf'
+2024-07-26 21:34:16,556 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 21:34:16,557 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 21:34:16,557 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 21_34_16
+2024-07-26 21:34:20,641 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 21:34:38,756 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #2**
+2024-07-26 21:34:38,756 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - string index out of range
+2024-07-26 21:35:30,933 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:35:30,933 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: [". Details: "[{'message': 'File not found: [', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 21:37:36,051 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:37:36,051 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: [". Details: "[{'message': 'File not found: [', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 21:46:25,263 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:46:25,263 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: [". Details: "[{'message': 'File not found: [', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 21:47:13,537 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 21:47:13,538 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 21:47:13,538 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 21_47_13
+2024-07-26 21:47:17,543 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 21:47:31,546 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:47:31,547 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: [". Details: "[{'message': 'File not found: [', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 21:50:06,822 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:50:06,823 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: [". Details: "[{'message': 'File not found: [', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 21:50:56,840 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:50:56,840 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: [". Details: "[{'message': 'File not found: [', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 21:54:02,455 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:54:02,455 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: [". Details: "[{'message': 'File not found: [', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 21:55:34,493 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:55:34,493 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: [". Details: "[{'message': 'File not found: [', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 21:56:55,978 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:56:55,979 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: [". Details: "[{'message': 'File not found: [', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 21:57:31,813 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 21:57:31,814 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 21:57:31,814 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 21_57_31
+2024-07-26 21:57:36,027 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 21:57:40,674 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:57:40,675 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - 'str' object has no attribute 'read'
+2024-07-26 21:58:49,075 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 21:58:49,076 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - 'str' object has no attribute 'read'
+2024-07-26 22:07:15,779 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 22:07:15,779 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - cannot access local variable 'folder' where it is not associated with a value
+2024-07-26 22:08:12,534 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 22:08:12,534 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: ["12BKaYDv58dxzDXwml2oVoDqadNFsMAXU"". Details: "[{'message': 'File not found: ["12BKaYDv58dxzDXwml2oVoDqadNFsMAXU"', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 22:09:17,563 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 22:09:17,564 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 22:09:17,564 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 22_09_17
+2024-07-26 22:09:21,964 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 22:09:31,069 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 22:09:31,069 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - <HttpError 404 when requesting None returned "File not found: 12BKaYDv58dxzDXwml2oVoDqadNFsMAXU"". Details: "[{'message': 'File not found: 12BKaYDv58dxzDXwml2oVoDqadNFsMAXU"', 'domain': 'global', 'reason': 'notFound', 'location': 'file', 'locationType': 'other'}]">
+2024-07-26 22:09:55,205 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 22:09:55,205 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 22:09:55,206 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 22_09_55
+2024-07-26 22:43:34,225 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-26 22:43:34,225 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-26 22:43:34,225 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 26-Jul-2024 22_43_34
+2024-07-26 22:43:38,365 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
+2024-07-26 22:44:14,144 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - **Omar Ibrahim** coundn't submitted **Task #1**
+2024-07-26 22:44:14,144 - D:\IEEE\RAS\Final_discordBot\_log.py - ERROR - [WinError 32] The process cannot access the file because it is being used by another process: 'temp/omar.png'

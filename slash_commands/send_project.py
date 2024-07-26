@@ -7,11 +7,12 @@ from logTask import logTask
 import requests
 from io import BytesIO
 import os
+from dotenv import load_dotenv
 class send_project(commands.Cog):
     def __init__(self,client: commands.Bot):
         self.client = client
         self.logger = _logger()
-        
+        load_dotenv(".env")
         
         
     @app_commands.command(name="send_project",
@@ -35,12 +36,7 @@ class send_project(commands.Cog):
             # await interaction.response.send_message(f'processing...', ephemeral=True)
 
             # Create a GoogleDriveFile instance
-            folder_id = [
-                '1uA3UEQUYP3CTLo8hieQlvt0D-Lmzb1rQ',
-                '1zlYJVaISgqsQl0fMsyqBXrDpGrTmB02Q',
-                '1OaPqtjZA7ZGt4gxo4jclnL0JuAmavTy1',
-                '1OaPqtjZA7ZGt4gxo4jclnL0JuAmavTy1'
-            ]
+            folder_id = os.getenv("project_folder_ids")
 
             gfile = gdrive().CreateFile({
                 'title':
@@ -52,7 +48,7 @@ class send_project(commands.Cog):
             response = requests.get(file.url)
             file_data = BytesIO(response.content)
             # Save the file data to a temporary file
-            temp_file_path = f'tmp/{file.filename}'
+            temp_file_path = f'temp/{file.filename}'
             with open(temp_file_path, 'wb') as temp_file:
                 temp_file.write(file_data.getvalue())
 
