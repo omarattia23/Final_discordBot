@@ -87,7 +87,7 @@ if __name__ == "__main__":
             self.send_response(200)
             self.send_header("Content-type", "text/html")
             self.end_headers()
-            html = "I am running good (Mutex Bot)"
+            html = "I am running good"
             self.wfile.write(bytes(html, "utf8"))
 
 

@@ -2,18 +2,18 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 from gdrive import gdrive
-from _log import _logger
+# from _log import _logger
 from logTask import logTask
 import requests
 from io import BytesIO
 import os
 from dotenv import load_dotenv
-
+import shutil
 
 class send_task(commands.Cog):
     def __init__(self, client: commands.Bot):
         self.client = client
-        self.logger = _logger()
+        # self.logger = _logger()
         load_dotenv(".env")
 
     @app_commands.command(
@@ -42,9 +42,9 @@ class send_task(commands.Cog):
             task_number = int(task_number)
         except:
             await interaction.followup.send("Invalid task number.", ephemeral=True)
-            self.logger.error(
-                f"{interaction.user} entered invalid task number: '{task_number}'"
-            )
+            # self.logger.error(
+            #     f"{interaction.user} entered invalid task number: '{task_number}'"
+            # )
             return
         try:
             # user name
@@ -111,14 +111,18 @@ class send_task(commands.Cog):
                     # "content-length": file.size,  # Set the content length explicitly
                 }
             )
-            response = requests.get(file.url)
-            file_data = BytesIO(response.content)
+            # response = requests.get(file.url)
+            # file_data = BytesIO(response.content)
+            respone_file = await file.read()
             # Save the file data to a temporary file
-            temp_file_path = os.path.join(".\\temp", file.filename)
+            cpath = os.getcwd()
+            # temp_path = os.path.join(cpath, "temp")
+            temp_file_path = os.path.join(cpath, file.filename)
+
             with open(temp_file_path, "wb") as temp_file:
-                temp_file.write(file_data.getvalue())
+                temp_file.write(respone_file)
             # Set the content file from the temporary file
-            print(temp_file_path)
+            # print(temp_file_path)
             gfile.SetContentFile(temp_file_path)
 
             # Upload the file to Google Drive directly
@@ -148,10 +152,10 @@ class send_task(commands.Cog):
             #     )
 
         except Exception as e:
-            self.logger.error(
-                f"**{user_name}** coundn't submitted **Task #{task_number}**"
-            )
-            self.logger.error(e)
+            # self.logger.error(
+            #     f"**{user_name}** coundn't submitted **Task #{task_number}**"
+            # )
+            # self.logger.error(e)
             print(e)
 
 
