@@ -30,8 +30,8 @@ class send_project(commands.Cog):
 
         Submits a project with the specified number and a file attachment to the designated Google Drive folder.
         """
-        print("=" * 80)
         await interaction.response.defer(ephemeral=False)
+        print("=" * 80)
         try:
             # user name
             user_name = interaction.user.global_name
