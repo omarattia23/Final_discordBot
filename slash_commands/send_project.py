@@ -30,6 +30,7 @@ class send_project(commands.Cog):
 
         Submits a project with the specified number and a file attachment to the designated Google Drive folder.
         """
+        print("=" * 80)
         await interaction.response.defer(ephemeral=False)
         try:
             # user name
@@ -46,7 +47,9 @@ class send_project(commands.Cog):
             response = requests.get(file.url)
             file_data = BytesIO(response.content)
             # Save the file data to a temporary file
-            temp_file_path = os.path.join(".\\temp", file.filename)
+            cpath = os.getcwd()
+            # temp_path = os.path.join(cpath, "temp")
+            temp_file_path = os.path.join(cpath, file.filename)
             with open(temp_file_path, "wb") as temp_file:
                 temp_file.write(file_data.getvalue())
             # Set the content file from the temporary file

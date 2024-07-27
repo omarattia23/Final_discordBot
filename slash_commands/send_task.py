@@ -34,10 +34,7 @@ class send_task(commands.Cog):
         Submits a task with the specified number and a file attachment to the designated Google Drive folder.
         """
         print("=" * 80)
-        try:
-            await interaction.response.defer(ephemeral=False)
-        except:
-            print("Error")
+        await interaction.response.defer(ephemeral=False)
         try:
             task_number = int(task_number)
         except:
@@ -150,7 +147,7 @@ class send_task(commands.Cog):
             #     self.logger.info(
             #         f"**{user_name}** successfully submitted **Task #{task_number}** Mechanical"
             #     )
-            
+
         except Exception as e:
             # self.logger.error(
             #     f"**{user_name}** coundn't submitted **Task #{task_number}**"
