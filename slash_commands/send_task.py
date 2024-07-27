@@ -35,7 +35,7 @@ class send_task(commands.Cog):
         """
         print("=" * 80)
         try:
-            await interaction.response.defer(ephemeral=True)
+            await interaction.response.defer(ephemeral=False)
         except:
             print("Error")
         try:
@@ -150,7 +150,7 @@ class send_task(commands.Cog):
             #     self.logger.info(
             #         f"**{user_name}** successfully submitted **Task #{task_number}** Mechanical"
             #     )
-
+            
         except Exception as e:
             # self.logger.error(
             #     f"**{user_name}** coundn't submitted **Task #{task_number}**"

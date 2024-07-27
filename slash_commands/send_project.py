@@ -8,17 +8,20 @@ import requests
 from io import BytesIO
 import os
 from dotenv import load_dotenv
+
+
 class send_project(commands.Cog):
-    def __init__(self,client: commands.Bot):
+    def __init__(self, client: commands.Bot):
         self.client = client
         self.logger = _logger()
         load_dotenv(".env")
-        
-        
-    @app_commands.command(name="send_project",
-                        description="All projects should be submitted here")
-    async def send_project(self,interaction, project_number: str,
-                            file: discord.Attachment):
+
+    @app_commands.command(
+        name="send_project", description="All projects should be submitted here"
+    )
+    async def send_project(
+        self, interaction: discord.Interaction, project_number: str, file: discord.Attachment
+    ):
         """Command: send_project
 
         Parameters:
@@ -29,21 +32,17 @@ class send_project(commands.Cog):
         """
         await interaction.response.defer(ephemeral=False)
         try:
-        # user name
+            # user name
             user_name = interaction.user.global_name
             user_id = interaction.user
-            print('username:' + user_name)
+            print("username:" + user_name)
             # await interaction.response.send_message(f'processing...', ephemeral=True)
 
             # Create a GoogleDriveFile instance
             folder_id = str(os.getenv("project_folders_id"))
-            gfile = gdrive().CreateFile({
-                'title':
-                file.filename,
-                'parents': [{
-                    'id': str(folder_id)
-                }]
-            })
+            gfile = gdrive().CreateFile(
+                {"title": file.filename, "parents": [{"id": str(folder_id)}]}
+            )
             response = requests.get(file.url)
             file_data = BytesIO(response.content)
             # Save the file data to a temporary file
@@ -55,7 +54,7 @@ class send_project(commands.Cog):
             gfile.SetContentFile(temp_file_path)
 
             # Upload the file to Google Drive directly
-            
+
             gfile.Upload()
             # Clean up the temporary file
             try:
@@ -72,14 +71,19 @@ class send_project(commands.Cog):
             # await interaction.response.send_message(f'Uploaded file to Google Drive. You can access it [here]({file_url}).', ephemeral=True)
             # logTask(user_name, str(user_id), '---', project_number, file.filename)
             await interaction.followup.send(
-                f'**{user_name}** successfully submitted **project #{project_number}**'
+                f"**{user_name}** successfully submitted **project #{project_number}**"
             )
-            self.logger.info(f'**{user_name}** successfully submitted **project #{project_number}**')
+            self.logger.info(
+                f"**{user_name}** successfully submitted **project #{project_number}**"
+            )
 
         except Exception as e:
-            self.logger.error(f"**{user_name}** coundn't submitted **Project #{project_number}**")
+            self.logger.error(
+                f"**{user_name}** coundn't submitted **Project #{project_number}**"
+            )
             self.logger.error(e)
             print(e)
 
-async def setup(client:commands.Bot) -> None:
+
+async def setup(client: commands.Bot) -> None:
     await client.add_cog(send_project(client))
