@@ -1,0 +1,4 @@
+2024-07-28 01:02:04,570 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - -----------------------
+2024-07-28 01:02:04,570 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Script started...
+2024-07-28 01:02:04,571 - D:\IEEE\RAS\Final_discordBot\_log.py - DEBUG - 28-Jul-2024 01_02_04
+2024-07-28 01:02:09,927 - D:\IEEE\RAS\Final_discordBot\_log.py - INFO - Logged in as RAS
