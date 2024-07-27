@@ -19,7 +19,7 @@ import os
 
 load_dotenv('.env')
 
-Token = os.getenv("Token")
+Token = os.getenv("TOKEN")
 class MyBot(commands.Bot):
 
     def __init__(self):
@@ -101,5 +101,5 @@ if __name__ == "__main__":
 
 
     threading.Thread(target=create_server).start()
-    print(TOKEN)
-    bot.run(TOKEN)
+    print(Token)
+    bot.run(Token)
