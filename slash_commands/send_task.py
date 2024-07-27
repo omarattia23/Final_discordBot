@@ -117,7 +117,7 @@ class send_task(commands.Cog):
             file_data = BytesIO(response.content)
             
             # Save the file data to a temporary file
-            temp_file_path = f"temp/{file.filename}"
+            temp_file_path = f"./temp/{file.filename}"
             with open(temp_file_path, "wb") as temp_file:
                 temp_file.write(file_data.getvalue())
             # Set the content file from the temporary file
