@@ -14,8 +14,7 @@ class send_task(commands.Cog):
     def __init__(self, client: commands.Bot):
         self.client = client
         self.logger = _logger()
-        load_dotenv('.env')
-
+        load_dotenv(".env")
 
     @app_commands.command(
         name="send_task", description="All tasks should be submitted here"
@@ -34,6 +33,7 @@ class send_task(commands.Cog):
 
         Submits a task with the specified number and a file attachment to the designated Google Drive folder.
         """
+        print("=" * 80)
         try:
             await interaction.response.defer(ephemeral=False)
         except:
@@ -103,39 +103,38 @@ class send_task(commands.Cog):
 
             folder_ids = os.getenv("task_folder_ids")
             folder_ids = folder_ids.split(",")
-            # print(folder_ids)
+            print(folder_ids[int(task_number) - 1])
             gfile = gdrive().CreateFile(
                 {
                     "title": file.filename,
                     "parents": [{"id": folder_ids[int(task_number) - 1]}],
-                    "content-length": file.size,  # Set the content length explicitly
+                    # "content-length": file.size,  # Set the content length explicitly
                 }
             )
-            print(type(folder_ids))
-            print(folder_ids[int(task_number) - 1])
             response = requests.get(file.url)
             file_data = BytesIO(response.content)
-            
             # Save the file data to a temporary file
-            temp_file_path = f"./temp/{file.filename}"
+            temp_file_path = os.path.join(".\\temp", file.filename)
             with open(temp_file_path, "wb") as temp_file:
                 temp_file.write(file_data.getvalue())
             # Set the content file from the temporary file
-            
+            print(temp_file_path)
             gfile.SetContentFile(temp_file_path)
-            
+
             # Upload the file to Google Drive directly
+            
             gfile.Upload()
-            
-            os.remove(temp_file_path)
-            
-            
+            # Clean up the temporary file
+            try:
+                os.remove(temp_file_path)
+            except Exception as e:
+                print(f"Error: {e}")
             # Get the link to the uploaded file
             # file_url = gfile['alternateLink']
 
             # Send the file link as a response in Discord
             # await interaction.response.send_message(f'Uploaded file to Google Drive. You can access it [here]({file_url}).', ephemeral=True)
-            logTask(user_name, str(user_id), task_number, "---", str(file.filename))
+            # logTask(user_name, str(user_id), task_number, "---", str(file.filename))
             await interaction.followup.send(
                 f"**{user_name}** successfully submitted **Task #{task_number}**"
             )
@@ -147,7 +146,7 @@ class send_task(commands.Cog):
             #     self.logger.info(
             #         f"**{user_name}** successfully submitted **Task #{task_number}** Mechanical"
             #     )
-            
+
         except Exception as e:
             self.logger.error(
                 f"**{user_name}** coundn't submitted **Task #{task_number}**"
@@ -158,5 +157,3 @@ class send_task(commands.Cog):
 
 async def setup(client: commands.Bot) -> None:
     await client.add_cog(send_task(client))
-
-

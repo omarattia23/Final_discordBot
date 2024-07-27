@@ -2,13 +2,13 @@ from cryptography.fernet import Fernet
 
 def encrypt():
     key = Fernet.generate_key()
-    # print(f"Generated key: {key}")
+    print(f"Generated key: {key}")
 
     # # Optionally, save the key to a .env file
     # with open('.env', 'a') as f:
     #     f.write(f'\nKEY={key}\n')
 
-    with open('RAScloud.json', 'rb') as f:
+    with open('rascloud.json', 'rb') as f:
         data = f.read()
 
     fernet = Fernet(key)
@@ -28,5 +28,6 @@ def decrypt(key):
 
     return decrypted
 
-
-# print(encrypt())
+if __name__ == '__main__':
+    # print(encrypt())
+    pass
