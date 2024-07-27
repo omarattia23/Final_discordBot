@@ -35,7 +35,7 @@ class send_task(commands.Cog):
         """
         print("=" * 80)
         try:
-            await interaction.response.defer(ephemeral=False)
+            await interaction.response.defer(ephemeral=True)
         except:
             print("Error")
         try:
